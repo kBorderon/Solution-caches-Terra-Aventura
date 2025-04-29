@@ -20,4 +20,4 @@ Les **rapports de bug** ont tendance à avoir :
 - Notes (comprenant éventuellement les raisons pour lesquelles le résultat attendu est erroné).  
 
 ## Licence
-En contribuant, vous acceptez que vos contributions soient soumises à la licence du MIT.
+En contribuant, vous acceptez que vos contributions soient soumises à la licence Apache 2.0.
