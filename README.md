@@ -20,6 +20,14 @@
 
 Ce projet consiste en la réalisation d'une solution pour lister les caches géocaching des différentes quêtes **Tèrra Aventura**.
 
+<img alt="Logo Tèrra Aventura" src="assets/images/logo-terra-aventura.svg" width="25%">
+
+Les réseaux pour joindre les équipes Tèrra aventura :
+- Facebook [terra aventura](https://www.facebook.com/terraaventura) ;
+- Instagram [terraaventura_lespoiz](https://www.instagram.com/terraaventura_lespoiz/).
+
+**N'hésitez pas à les identifier sur posts, photographies ou vidéos, lorsque le contenu est public, les équipes Tèrra Aventura les partagent également !**
+
 #### Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?<a name="poizTerraAventura"></a>
 
 Le **Tèrra Aventura** est un jeu de géocaching, c'est-à-dire un jeu de chasse au trésor qui s'adresse à tous, en plein air, pour laquelle chacun des participants doit être muni d'un smartphone ou d'un GPS pour retrouver des lieux clés associés à des caches.  
@@ -52,7 +60,7 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
 
 Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des explications à travers cette vidéo :
 
-![Vidéo de présentation de Tèrra Aventura](assets/videos/terra-aventura.mp4)
+<video src="assets/videos/terra-aventura.mp4" width="480" height="360" type="video/mp4" controls></video>
 
 Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin de vous épauler dans votre aventure :
 - qui sont les partenaires de Tèrra Aventura ?, via la page intitulée [Collab'](https://www.terra-aventura.fr/collab), vous pourrez y découvrir toutes les collaborations réalisées avec Tèrra Aventura ;
