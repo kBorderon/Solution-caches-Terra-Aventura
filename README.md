@@ -59,6 +59,9 @@ C'est parti, il est l'heure de relever les indices, de résoudre les énigmes et
 
 Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consulter cette page dédie à eux [Les Poï'z](https://www.terra-aventura.fr/les-poiz). Si tu souhaites en connaître plus, sur l'histoire, etc., nous te conseillons de consulter l'[Univers Tèrra Aventura](https://www.terra-aventura.fr/lunivers).
 
+[<img alt="Poï'z, le personnage de ton Tèrra Aventura" src="assets/images/poiz.PNG" width="50%">](https://www.terra-aventura.fr/les-poiz)  
+Découverte des Poï'z
+
 Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des explications à travers cette vidéo :
 
 https://github.com/user-attachments/assets/ff65f61c-0c2e-4598-b57e-8e274c4db412
@@ -70,11 +73,17 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
 - besoin de jokers supplémentaires ?, n'hésitez pas à répondre à cette première [énigme](https://www.terra-aventura.fr/sites/default/files/pdf/terra-pdf-gagne-ton-joker-enigme.pdf), une seconde s'offre à toi, [la surprise de Zefaim](https://www.terra-aventura.fr/la-surprise-de-zefaim), sinon, **vous obtiendrez un joker, toutes les 10 caches consécutives, réussies sans joker** ;
 - existe-t-il une boutique dédiée à l'univers Tèrra Aventura ?, n'hésitez à consulter [Goodies et dépliants](https://www.terra-aventura.fr/goodies-et-depliants) et [les médailles collector](https://www.terra-aventura.fr/les-medailles-collector).
 
+[<img alt="Carte interactive Tèrra Aventura" src="assets/images/carte-interactive-terra-aventura.PNG" width="75%">](https://www.terra-aventura.fr/parcours)  
+Carte interactive des Tèrra Aventura disponibles
+
 Liste de l'ensemble des partenaires participants à la création/gestion de Tèrra Aventura [référentiel des partenaires Tèrra Aventura](https://www.terra-aventura.fr/partenaires?langcode=fr).
 
 #### Et pour poursuivre davantage l'aventure ?<a name="poursuiteAventure"></a>
 
 Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter régulièrement les [nouveautés](https://www.terra-aventura.fr/nouveautes), ainsi que les [quêtes bonus](https://www.terra-aventura.fr/les-quetes-bonus).  
+
+[<img alt="Les quêtes bonus de ton Tèrra Aventura" src="assets/images/quetes-bonus.PNG" width="50%">](https://www.terra-aventura.fr/les-poiz)  
+Découverte des quêtes bonus
 
 Puis, dans un second temps, pour pousser l'aventure un peu plus loin, vous pouvez poursuivre votre collecte de badges en réussissant les [Micro Z'aventures](https://www.terra-aventura.fr/micro-zaventures) actuellement proposées. Pour plus d'informations, nous vous conseillons de consulter la rubrique [Actu](https://www.terra-aventura.fr/actu).
 
