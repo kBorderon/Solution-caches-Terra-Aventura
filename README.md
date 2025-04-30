@@ -21,7 +21,7 @@
 
 Ce projet consiste en la réalisation d'une solution pour lister les caches géocaching des différentes quêtes **Tèrra Aventura**.
 
-<img alt="Logo Tèrra Aventura" src="assets/images/logo-terra-aventura.svg" width="25%">
+<img alt="Logo Tèrra Aventura" src="assets/images/logo-terra-aventura.svg" width="35%">
 
 Les réseaux pour joindre les équipes Tèrra aventura :
 - Facebook [terra aventura](https://www.facebook.com/terraaventura) ;
@@ -61,7 +61,7 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
 
 Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des explications à travers cette vidéo :
 
-<video src="assets/videos/terra-aventura.mp4" width="480" height="360" type="video/mp4" controls></video>
+https://github.com/user-attachments/assets/ff65f61c-0c2e-4598-b57e-8e274c4db412
 
 Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin de vous épauler dans votre aventure :
 - qui sont les partenaires de Tèrra Aventura ?, via la page intitulée [Collab'](https://www.terra-aventura.fr/collab), vous pourrez y découvrir toutes les collaborations réalisées avec Tèrra Aventura ;
