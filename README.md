@@ -13,6 +13,7 @@
     - [Règlement Tèrra Aventura](#reglement)
     - [L'heure de la première aventure est arrivée !](#premiereAventure)
     - [Et pour poursuivre davantage l'aventure ?](#poursuiteAventure)
+2. [Questions et demandes](#questions)
 
 ---
 
@@ -80,3 +81,10 @@ Puis, dans un second temps, pour pousser l'aventure un peu plus loin, vous pouve
 Tu peux également participer à des [concours](https://www.terra-aventura.fr/concours) ou poursuivre ta collection de badges Tèrra Aventura via des [succès virtuels](https://www.terra-aventura.fr/les-succes-virtuels).
 
 ---
+
+## Partie 2 - Questions et demandes <a name="questions"></a>
+
+>Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
+>- mon mail (cf. mon [**profil GitHub**](https://github.com/kBorderon "lien vers mon profil Github comportant mes informations de contact")) ;
+>- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "Lien vers mon profil Twitter") ;
+>- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 "Lien vers mon profil Discord").
