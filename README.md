@@ -13,7 +13,21 @@
     - [Règlement Tèrra Aventura](#reglement)
     - [L'heure de la première aventure est arrivée !](#premiereAventure)
     - [Et pour poursuivre davantage l'aventure ?](#poursuiteAventure)
-2. [Questions et demandes](#questions)
+2. [Aides caches Tèrra Aventura](#aides)
+   - [Aides Tèrra Aventura - (16) Charente](#charente)
+   - [Aides Tèrra Aventura - (17) Charente-Maritime](#charenteMaritime)
+   - [Aides Tèrra Aventura - (19) Corrèze](#correze)
+   - [Aides Tèrra Aventura - (23) Creuse](#creuse)
+   - [Aides Tèrra Aventura - (24) Dordogne](#dordogne)
+   - [Aides Tèrra Aventura - (33) Gironde](#gironde)
+   - [Aides Tèrra Aventura - (40) Landes](#landes)
+   - [Aides Tèrra Aventura - (47) Lot-et-Garonne](#lotEtGaronne)
+   - [Aides Tèrra Aventura - (64) Pyrénées-Atlantiques](#pyreneesAtlantiques)
+   - [Aides Tèrra Aventura - (75) Paris](#paris)
+   - [Aides Tèrra Aventura - (79) Deux-Sèvres](#deuxSevres)
+   - [Aides Tèrra Aventura - (86) Vienne](#vienne)
+   - [Aides Tèrra Aventura - (87) Haute-Vienne](#hauteVienne)
+3. [Questions et demandes](#questions)
 
 ---
 
@@ -33,7 +47,9 @@ Les réseaux pour joindre les équipes Tèrra aventura :
 
 Le **Tèrra Aventura** est un jeu de géocaching, c'est-à-dire un jeu de chasse au trésor qui s'adresse à tous, en plein air, pour laquelle chacun des participants doit être muni d'un smartphone ou d'un GPS pour retrouver des lieux clés associés à des caches.  
 
-Ces dernières se débloquent en répondant à des énigmes présentes sur l'application 100% gratuite « Tèrra Aventura », toutes les instructions pour installer l'application et débuter son aventure, sont référencées dans la rubrique [comment jouer](https://www.terra-aventura.fr/comment-jouer).  
+Créé en **2011** en **Limousin** (**19**, **23** & **87**), Tèrra Aventura s'est très rapidement développé dans toute la région Nouvelle-Aquitaine, offrant aujourd'hui plus de 600 chasses aux trésors partout sur ce territoire.
+
+Ces dernières se débloquent en répondant à des énigmes présentes sur l'application 100% gratuite « Tèrra Aventura », toutes les instructions pour installer l'application et commencer son aventure, sont référencées dans la rubrique [comment jouer](https://www.terra-aventura.fr/comment-jouer).  
 
 L'objectif est simple, il s'agit de vous faire découvrir le patrimoine local, ses anecdotes, tout en s'amusant !
 
@@ -70,7 +86,7 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
 - qui sont les partenaires de Tèrra Aventura ?, via la page intitulée [Collab'](https://www.terra-aventura.fr/collab), vous pourrez y découvrir toutes les collaborations réalisées avec Tèrra Aventura ;
 - des questions ?, n'hésitez pas à consulter la rubrique [Vos questions](https://www.terra-aventura.fr/vos-questions) ;
 - **comment identifier simplement les parcours Tèrra Aventure ?**, rien de plus simple avec la [**carte interactive**](https://www.terra-aventura.fr/parcours) ;
-- besoin de jokers supplémentaires ?, n'hésitez pas à répondre à cette première [énigme](https://www.terra-aventura.fr/sites/default/files/pdf/terra-pdf-gagne-ton-joker-enigme.pdf), une seconde s'offre à toi, [la surprise de Zefaim](https://www.terra-aventura.fr/la-surprise-de-zefaim), sinon, **vous obtiendrez un joker, toutes les 10 caches consécutives, réussies sans joker** ;
+- besoin de jokers supplémentaires ?, n'hésitez pas à répondre à cette première [énigme](https://www.terra-aventura.fr/sites/default/files/pdf/terra-pdf-gagne-ton-joker-enigme.pdf), une seconde s'offre à toi, [la surprise de Zefaim](https://www.terra-aventura.fr/la-surprise-de-zefaim) et la dernière énigme [jeux des poï'z](https://www.terra-aventura.fr/jeux-des-poiz), sinon, **vous obtiendrez un joker, toutes les 10 caches consécutives, réussies sans joker** ;
 - existe-t-il une boutique dédiée à l'univers Tèrra Aventura ?, n'hésitez à consulter [Goodies et dépliants](https://www.terra-aventura.fr/goodies-et-depliants) et [les médailles collector](https://www.terra-aventura.fr/les-medailles-collector).
 
 [<img alt="Carte interactive Tèrra Aventura" src="assets/images/carte-interactive-terra-aventura.PNG" width="75%">](https://www.terra-aventura.fr/parcours)  
@@ -91,9 +107,129 @@ Tu peux également participer à des [concours](https://www.terra-aventura.fr/co
 
 ---
 
-## Partie 2 - Questions et demandes <a name="questions"></a>
+## Partie 2 - Aides caches Tèrra Aventura<a name="aides"></a>
+
+Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé dans les départements voisins liés à la création de la région **Nouvelle-Aquitaine** dont vous trouverez la carte ci-dessous.
+
+<img alt="Logo Tèrra Aventura" src="assets/images/carte-nouvelle-aquitaine.png" width="50%">
+
+A travers ces 12 départements, partez à la recherche de votre nouvelle aventure Tèrra Aventura !
+
+**Département supplémentaire**  
+
+Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (75)** dont en témoigne ce [communiqué de presse](https://www.nouvelle-aquitaine.paris/application/uploads/files/NL/Communiqu%C3%A9%20de%20Presse%20-%20Lancement%20parcours%20T%C3%A8rra%20Aventura%20Paris%20-%20Juin%202021.pdf), réalisé à Bordeaux, le 25 Mai 2021.  
+
+À partir du 11 Juin 2021, deux nouvelles aventures aux départs respectifs des gares d’Austerlitz et Montparnasse, permettront au public parisien de pouvoir découvrir l'univers ludique en provenance de Nouvelle-Aquitaine. En effet, ces deux parcours ont pour objectif d'inviter le public parisien à venir découvrir la Nouvelle-Aquitaine (en plus de la promotion marketing réalisée à la Maison de la Nouvelle-Aquitaine (Centre d'affaires à Paris), en réalisant un premier test grandeur nature à Paris.  
+
+### Aides Tèrra Aventura - (16) Charente<a name="charente"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).  
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (17) Charente-Maritime<a name="charenteMaritime"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (19) Corrèze<a name="correze"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (23) Creuse<a name="creuse"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (24) Dordogne<a name="dordogne"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (33) Gironde<a name="gironde"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (40) Landes<a name="landes"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (47) Lot-et-Garonne<a name="lotEtGaronne"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (64) Pyrénées-Atlantiques<a name="pyreneesAtlantiques"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (75) Paris<a name="paris"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (79) Deux-Sèvres<a name="deuxSevres"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (86) Vienne<a name="vienne"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+### Aides Tèrra Aventura - (87) Haute-Vienne<a name="hauteVienne"></a>
+
+<img alt="Bientôt disponilme" src="assets/gifs/coming-soon.gif">
+
+Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions).
+
+Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+
+---
+
+## Partie 3 - Questions et demandes<a name="questions"></a>
 
 >Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
->- mon mail (cf. mon [**profil GitHub**](https://github.com/kBorderon "lien vers mon profil Github comportant mes informations de contact")) ;
+>- mon mail (cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "Lien pour me contacter via mon mail")) ;
 >- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "Lien vers mon profil Twitter") ;
 >- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 "Lien vers mon profil Discord").
