@@ -97,7 +97,11 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
 
 Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des explications à travers cette vidéo :
 
-https://github.com/user-attachments/../assets/ff65f61c-0c2e-4598-b57e-8e274c4db412
+<div style="display:flex;align-items:center;justify-content:center;">
+   <video controls="" width="600px">
+       <source src="https://github.com/kBorderon/Solution-caches-Terra-Aventura/raw/refs/heads/master/assets/videos/terra-aventura.mp4" type="video/mp4">
+   </video>
+</div>
 
 Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin de vous épauler dans votre aventure :
 - qui sont les partenaires de Tèrra Aventura ?, via la page intitulée [Collab'](https://www.terra-aventura.fr/collab "redirection : Page collab du jeu Tèrra Aventura"), vous pourrez y découvrir toutes les collaborations réalisées avec Tèrra Aventura ;
