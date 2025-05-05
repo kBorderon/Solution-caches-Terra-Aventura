@@ -367,8 +367,10 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
                </div>
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Poï'z :</span>
-                  <span style="font-weight:bold;">
-                     <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">&nbsp;Zouti</a>
+                  <span style="font-weight:bold;">&nbsp;
+                     <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
+                        Zouti
+                     </a>
                   </span>
                </div>
                <div style="display:flex;align-items:center;">
