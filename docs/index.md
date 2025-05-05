@@ -354,7 +354,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:750px;">
       <div style="display:flex;align-items:center;justify-content: center;">
          <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
-            <img alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+            <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
          </a>
          <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Petites Chamoiseries entre Poï'Z</p>
       </div>
