@@ -41,7 +41,7 @@ Ce projet consiste en la réalisation d'une solution pour lister les caches géo
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Logo Tèrra Aventura" src="../assets/images/logo-terra-aventura.svg" width="35%">
+      <img alt="Logo Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-terra-aventura.svg" width="35%">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°1 - Logo Tèrra Aventura</ins>
@@ -88,7 +88,7 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
-      <img alt="Poï'z, le personnage de ton Tèrra Aventura" src="../assets/images/poiz.PNG" width="50%">
+      <img alt="Poï'z, le personnage de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz.PNG" width="50%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°2 - Découverte des Poï'z</ins>
@@ -109,7 +109,7 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/parcours" title="redirection : Page parcours du jeu Tèrra Aventura">
-      <img alt="Carte interactive Tèrra Aventura" src="../assets/images/carte-interactive-terra-aventura.PNG" width="75%">
+      <img alt="Carte interactive Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/carte-interactive-terra-aventura.PNG" width="75%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°3 - Carte interactive des Tèrra Aventura disponibles</ins>
@@ -124,7 +124,7 @@ Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
-      <img alt="Les quêtes bonus de ton Tèrra Aventura" src="../assets/images/quetes-bonus.PNG" width="50%">
+      <img alt="Les quêtes bonus de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/quetes-bonus.PNG" width="50%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°4 - Découverte des quêtes bonus</ins>
@@ -143,7 +143,7 @@ Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" href="https://www.nouvelle-aquitaine.fr" title="redirection : Page La région Nouvelle-Aquitaine">
-      <img alt="Logo Tèrra Aventura" src="../assets/images/carte-nouvelle-aquitaine.png" width="50%;">
+      <img alt="Logo Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/carte-nouvelle-aquitaine.png" width="50%;">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°5 - Carte de la région Nouvelle-Aquitaine</ins>
@@ -164,7 +164,7 @@ Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -182,7 +182,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -200,7 +200,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -218,7 +218,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -236,7 +236,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -254,7 +254,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -272,7 +272,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -290,7 +290,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -308,7 +308,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -326,7 +326,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -350,7 +350,7 @@ Fiche de présentation du parcours
    <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:620px;">
       <div style="display:flex;align-items:center;justify-content: center;">
          <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
-            <img alt="Poï'z Zouti" src="../assets/images/poiz/zouti_badge.png">
+            <img alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
          </a>
          <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Petites Chamoiseries entre Poï'Z</p>
       </div>
@@ -408,7 +408,7 @@ Fiche de présentation du parcours
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -426,7 +426,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -444,7 +444,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="../assets/gifs/coming-soon.gif">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
