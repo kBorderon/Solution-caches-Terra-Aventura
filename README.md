@@ -16,7 +16,7 @@ En effet, pour des soucis de lisibilité, nous avons mis en place cette Github P
 <a style="display:flex;align-items:center;justify-content:center;" href="https://kborderon.github.io/Solution-caches-Terra-Aventura/" title="redirection : Github Pages Solution caches Tèrra Aventura">
    <img alt="Présentation de l'affichage de la Github Pages Solution caches Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/github-page-solution-cartes-terra-aventura.PNG">
 </a>
-<div style="display:flex;align-items:center;justify-content:center;">
+<div align="center">
    <ins>Légende n°1 - Carte interactive des Tèrra Aventura disponibles</ins>
 </div>
 

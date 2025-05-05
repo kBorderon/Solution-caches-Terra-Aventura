@@ -351,7 +351,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
 
 <div style="display:flex; justify-content: center;">
-   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:700px;">
+   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:750px;">
       <div style="display:flex;align-items:center;justify-content: center;">
          <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
             <img alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
