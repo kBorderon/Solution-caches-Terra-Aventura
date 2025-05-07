@@ -423,8 +423,22 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    </div>
 </div>
 
-**Les indices**
+**Les indices aux énigmes**
 
+<details>
+   <summary>Énigme « A »</summary>
+   <div>
+      <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
+      <p>Réponse : <ins>20</ins></p>
+   </div>
+</details>
+
+**Les détails supplémentaires**
+
+<details>
+   <summary style="font-weight:bold;">Mot mystère</summary>
+   <p>HUILERIE</p>
+</details>
 ---
 
 <div>
