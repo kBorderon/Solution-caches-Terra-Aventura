@@ -423,15 +423,119 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    </div>
 </div>
 
-**Les indices aux énigmes**
-
 <details>
-   <summary>Énigme « A »</summary>
+   <summary>Les indices aux énigmes</summary>
    <div>
-      <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
-      <p>Réponse : <ins>20</ins></p>
+      <div>
+         <details>
+            <summary>Énigme « A »</summary>
+            <div>
+               <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
+               <p>Réponse : <ins>20</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « B »</summary>
+            <div>
+               <p>
+                  Quel numéro porte la plus petite pelle à crémaillère, servant à réguler le débit de l'eau qui actionne la roue du moulin ? Additionnez les cinq chiffres qui composent cette donnée. <br/>
+                  Vous ne trouvez pas le numéro ? Situé hors de remparts, sur un îlot de la Sèvre, le fort Foucault était un avant-poste du donjon de Niort et protégeait le port fluvial. <br/>
+                  Quel numéro porte-t-il ? <br/><br/>
+                  Ajoutez 5 à ce nombre pour obtenir la même donnée.
+               </p>
+               <p>Réponse : <ins>21</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « C »</summary>
+            <div>
+               <p>Les noms des monuments emblématiques de Niort sont gravés sur le sol et pointent dans leur direction. Combien en comptez-vous dans le square et sur l'îlot ?</p>
+               <p>Réponse : <ins>5</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « D »</summary>
+            <div>
+               <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
+               <p>Réponse : <ins>3</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « E »</summary>
+            <div>
+               <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
+               <p>Réponse : <ins>6</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « F »</summary>
+            <div>
+               <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
+               <p>Réponse : <ins>7</ins></p>
+            </div>
+         </details>
+      </div>
+      <details>
+         <summary>Énigme « G »</summary>
+         <div>
+            <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
+            <p>Réponse : <ins>6</ins></p>
+         </div>
+      </details>
+      <br/>
+      <div>
+         <details>
+            <summary>Énigme « H »</summary>
+            <div>
+               <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ? <br/>
+               1. Des coquillages<br/>
+               2. Des étoiles<br/>
+               3. Des boutons de couture<br/>
+               Relevez le numéro de la bonne réponse.</p>
+               <p>Réponse : <ins>1</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « I »</summary>
+            <div>
+               <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>>
+               1. Un panier en osier<br/>
+               2. Une bourse remplie de pièces<br/>
+               3. Un valise<br/>
+               Relevez le numéro de la bonne réponse.</p>
+               <p>Réponse : <ins>2</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « J »</summary>
+            <div>
+               <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
+               1. L'une est plus haute que l'autre<br/>
+               2. Les contreforts, accolés aux murs, sont plus élevés que sur l'autre<br/>
+               3. Seule l'une des tours est percée de fenêtre à meneaux (grandes ouvertures divisées en quatre)<br/>
+               4. L'une possède 5 tourelles d'angle, tandis que l'autre en a 4<br/>
+               Relevez le numéro de la bonne réponse.</p>
+               <p>Réponse : <ins>4</ins></p>
+            </div>
+         </details>
+      </div>
    </div>
 </details>
+<br/>
 
 **Les détails supplémentaires**
 
@@ -439,6 +543,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    <summary style="font-weight:bold;">Mot mystère</summary>
    <p>HUILERIE</p>
 </details>
+
 ---
 
 <div>
