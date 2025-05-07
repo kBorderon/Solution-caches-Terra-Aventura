@@ -534,8 +534,23 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       </div>
    </div>
 </details>
+<br/>
 
 **Les détails supplémentaires**
+
+<details>
+   <summary style="font-weight:bold;">Vérification solution cache</summary>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
+   </div>
+</details>
+
+<details>
+   <summary style="font-weight:bold;">Géolocalisation de la cache</summary>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <img alt="Vérification de la solution pour la cache « Petites Chamoiseries entre Poï'Z »" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
+   </div>
+</details>
 
 <details>
    <summary style="font-weight:bold;">Mot mystère</summary>
