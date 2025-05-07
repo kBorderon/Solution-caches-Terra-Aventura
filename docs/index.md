@@ -425,7 +425,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
 
 <details>
    <summary>Les indices aux énigmes</summary>
-   <div>
+   <div style="padding-left:20px;">
       <div>
          <details>
             <summary>Énigme « A »</summary>
@@ -492,7 +492,6 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
             <p>Réponse : <ins>6</ins></p>
          </div>
       </details>
-      <br/>
       <div>
          <details>
             <summary>Énigme « H »</summary>
@@ -535,7 +534,6 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       </div>
    </div>
 </details>
-<br/>
 
 **Les détails supplémentaires**
 
