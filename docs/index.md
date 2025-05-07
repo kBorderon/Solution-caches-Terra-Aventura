@@ -49,8 +49,16 @@ Ce projet consiste en la réalisation d'une solution pour lister les caches géo
 </div>
 
 Les réseaux pour joindre les équipes Tèrra aventura :
-- Facebook [terra aventura](https://www.facebook.com/terraaventura "redirection : Page Facebook Tèrra Aventura") ;
-- Instagram [terraaventura_lespoiz](https://www.instagram.com/terraaventura_lespoiz/ "redirection : Page Instagram Tèrra Aventura").
+<div style="margin-left:20px;">
+   <a style="display:flex;align-items:center;" href="https://www.facebook.com/terraaventura" title="redirection : Page Facebook Tèrra Aventura">
+      <img alt="Logo Facebook" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-facebook.PNG" width="5%">
+      <p>&nbsp;Facebook terra aventura</p>
+   </a>
+   <a style="display:flex;align-items:center;" href="https://www.instagram.com/terraaventura_lespoiz/" title="redirection : Page Instagram Tèrra Aventura">
+      <img alt="Logo Facebook" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-instagram.PNG" width="5%">
+      <p>&nbsp;Instagram terraaventura_lespoiz</p>
+   </a>
+</div>
 
 **N'hésitez pas à les identifier sur posts, photographies ou vidéos, lorsque le contenu est public, les équipes Tèrra Aventura les partagent également !**
 
@@ -97,10 +105,15 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
 
 Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des explications à travers cette vidéo :
 
-<div style="display:flex;align-items:center;justify-content:center;">
-   <video controls="" width="600px">
-       <source src="https://github.com/kBorderon/Solution-caches-Terra-Aventura/raw/refs/heads/master/assets/videos/terra-aventura.mp4" type="video/mp4">
-   </video>
+<div>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <video controls="" width="600px">
+          <source src="https://github.com/kBorderon/Solution-caches-Terra-Aventura/raw/refs/heads/master/assets/videos/terra-aventura.mp4" type="video/mp4">
+      </video>
+   </div>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°3 - Vidéo de présentation de l'application et du jeu Tèrra Aventura</ins>
+   </div>
 </div>
 
 Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin de vous épauler dans votre aventure :
@@ -116,7 +129,7 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
       <img alt="Carte interactive Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/carte-interactive-terra-aventura.PNG" width="75%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°3 - Carte interactive des Tèrra Aventura disponibles</ins>
+      <ins>Légende n°4 - Carte interactive des Tèrra Aventura disponibles</ins>
    </div>
 </div>
 
@@ -131,7 +144,7 @@ Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter
       <img alt="Les quêtes bonus de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/quetes-bonus.PNG" width="50%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°4 - Découverte des quêtes bonus</ins>
+      <ins>Légende n°5 - Découverte des quêtes bonus</ins>
    </div>
 </div>
 
@@ -150,7 +163,7 @@ Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé
       <img alt="Logo Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/carte-nouvelle-aquitaine.png" width="50%;">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°5 - Carte de la région Nouvelle-Aquitaine</ins>
+      <ins>Légende n°6 - Carte de la région Nouvelle-Aquitaine</ins>
    </div>
 </div>
 
@@ -172,7 +185,7 @@ Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°6 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°7 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -190,7 +203,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°7 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°8 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -208,7 +221,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°8 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°9 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -226,7 +239,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°9 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°10 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -244,7 +257,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°10 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°11 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -262,7 +275,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°11 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°12 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -280,7 +293,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°12 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°13 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -298,7 +311,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°13 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°14 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -316,7 +329,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°14 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°15 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -334,7 +347,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°15 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°16 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -410,6 +423,8 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    </div>
 </div>
 
+**Les indices**
+
 ---
 
 <div>
@@ -418,7 +433,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°16 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°17 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -436,7 +451,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°17 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°18 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
@@ -454,7 +469,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    </div>
 
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°18 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°19 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
 </div>
 
