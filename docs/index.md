@@ -122,7 +122,11 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
 - **comment identifier simplement les parcours Tèrra Aventure ?**, rien de plus simple avec la [**carte interactive**](https://www.terra-aventura.fr/parcours "redirection : Page parcours du jeu Tèrra Aventura") ;
 - besoin de jokers supplémentaires ?, n'hésitez pas à répondre à cette première [énigme](https://www.terra-aventura.fr/sites/default/files/pdf/terra-pdf-gagne-ton-joker-enigme.pdf "redirection : Page terra pdf gagne ton joker enigme du jeu Tèrra Aventura"), une seconde s'offre à toi, [la surprise de Zefaim](https://www.terra-aventura.fr/la-surprise-de-zefaim "redirection : Page la surprise de zéfaim du jeu Tèrra Aventura") et la dernière énigme [jeux des poï'z](https://www.terra-aventura.fr/jeux-des-poiz "redirection : Page jeux des poï'z du jeu Tèrra Aventura"), sinon, **vous obtiendrez un joker, toutes les 10 caches consécutives, réussies sans joker** ;
 - existe-t-il une boutique dédiée à l'univers Tèrra Aventura ?, n'hésitez à consulter [Goodies et dépliants](https://www.terra-aventura.fr/goodies-et-depliants "redirection : Page goodies et dépliants du jeu Tèrra Aventura") et [les médailles collector](https://www.terra-aventura.fr/les-medailles-collector "redirection : Page les médailles collector du jeu Tèrra Aventura") ;
-- existe-t-il des groupes Tèrra Aventura pour l'entraide ?, oui, je te conseille les groupes : .
+- existe-t-il des groupes Tèrra Aventura pour l'entraide ?, oui, je te conseille ces groupes Facebook : 
+  - [Terra aventura convivialité, échange et partage](https://www.facebook.com/groups/673343879793231/) ;
+  - [Terra Aventura: Échange et Collection de Family Badges](https://www.facebook.com/groups/1539407729855696/) ;
+  - [Les Z'aventuriers de Terra Aventura](https://www.facebook.com/groups/1024930144864141/) ;
+  - [Les solos de Terra Aventura 🥾](https://www.facebook.com/groups/863267015563601/).
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/parcours" title="redirection : Page parcours du jeu Tèrra Aventura">
@@ -485,13 +489,15 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
             </div>
          </details>
       </div>
-      <details>
-         <summary>Énigme « G »</summary>
-         <div>
-            <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
-            <p>Réponse : <ins>6</ins></p>
-         </div>
-      </details>
+      <div>
+         <details>
+            <summary>Énigme « G »</summary>
+            <div>
+               <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
+               <p>Réponse : <ins>6</ins></p>
+            </div>
+         </details>
+      </div>
       <div>
          <details>
             <summary>Énigme « H »</summary>
@@ -534,14 +540,18 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       </div>
    </div>
 </details>
-<br/>
 
 **Les détails supplémentaires**
 
 <details>
+   <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&homeControl=true&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false#14/46.3253/-0.4557"></iframe>
+</details>
+
+<details>
    <summary>Vérification solution cache</summary>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
+      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG" width="25%">
    </div>
 </details>
 
