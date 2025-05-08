@@ -1,0 +1,22 @@
+Lors de la génération de l'iframe, voici les éléments à intégrer :
+- Largeur 100% ;
+- Width 600px ;
+- Inclure le lien "plein écran " : True
+- Afficher les menus dans la légende ? : False
+- Afficher le bouton de retour à l'accueil : False
+- Vue courante plutôt que la vue par défaut ? : True
+- Garder les calques visibles actuellement : True
+- Voulez-vous afficher le bouton « Plus » : False
+- Autoriser le zoom avec la molette : True
+- Voulez-vous afficher une mini carte de situation : True
+- Afficher les boutons de zoom : toujours
+- Afficher le bouton de recherche : jamais
+- Afficher le bouton de plein écran : toujours
+- Afficher le bouton de partage : jamais
+- Afficher le bouton d'ouverture de l'explorateur : toujours
+- Afficher le bouton d'ouverture de la légende : toujours
+- Afficher le bouton de localisation : toujours
+- Afficher le bouton de mesures : jamais
+- Afficher le bouton pour ouvrir l'éditeur d'OpenStreetMap : jamais
+- Afficher le bouton permettant de changer le fond de carte : toujours
+

@@ -433,7 +433,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
                <p>Réponse : <ins>20</ins></p>
             </div>
@@ -442,7 +442,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>
                   Quel numéro porte la plus petite pelle à crémaillère, servant à réguler le débit de l'eau qui actionne la roue du moulin ? Additionnez les cinq chiffres qui composent cette donnée. <br/>
                   Vous ne trouvez pas le numéro ? Situé hors de remparts, sur un îlot de la Sèvre, le fort Foucault était un avant-poste du donjon de Niort et protégeait le port fluvial. <br/>
@@ -456,7 +456,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « C »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Les noms des monuments emblématiques de Niort sont gravés sur le sol et pointent dans leur direction. Combien en comptez-vous dans le square et sur l'îlot ?</p>
                <p>Réponse : <ins>5</ins></p>
             </div>
@@ -465,7 +465,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « D »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
                <p>Réponse : <ins>3</ins></p>
             </div>
@@ -474,7 +474,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
                <p>Réponse : <ins>6</ins></p>
             </div>
@@ -483,7 +483,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
                <p>Réponse : <ins>7</ins></p>
             </div>
@@ -492,7 +492,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
                <p>Réponse : <ins>6</ins></p>
             </div>
@@ -501,7 +501,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ? <br/>
                1. Des coquillages<br/>
                2. Des étoiles<br/>
@@ -514,8 +514,8 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div>
-               <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>>
+            <div style="padding-left:20px;">
+               <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>
                1. Un panier en osier<br/>
                2. Une bourse remplie de pièces<br/>
                3. Un valise<br/>
@@ -527,7 +527,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « J »</summary>
-            <div>
+            <div style="padding-left:20px;">
                <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
                1. L'une est plus haute que l'autre<br/>
                2. Les contreforts, accolés aux murs, sont plus élevés que sur l'autre<br/>
@@ -540,31 +540,32 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
       </div>
    </div>
 </details>
-
-**Les détails supplémentaires**
-
+<br/>
+<b>Les détails supplémentaires</b>
+<br/>
+<br/>
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&homeControl=true&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false#14/46.3253/-0.4557"></iframe>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
 </details>
 
 <details>
    <summary>Vérification solution cache</summary>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG" width="25%">
+      <img width="30%" alt="Vérification de la solution pour la cache Petites Chamoiseries entre Poï'Z" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
    </div>
 </details>
 
 <details>
    <summary>Géolocalisation de la cache</summary>
-   <div style="display:flex;align-items:center;justify-content:center;">
-      <img alt="Vérification de la solution pour la cache « Petites Chamoiseries entre Poï'Z »" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
-   </div>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
 </details>
 
 <details>
    <summary>Mot mystère</summary>
-   <p>HUILERIE</p>
+   <div style="padding-left:20px;">
+      <p>Réponse : <ins>HUILERIE</ins></p>
+   </div>
 </details>
 
 ---
