@@ -383,8 +383,8 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
          </a>
          <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Petites Chamoiseries entre Poï'Z</p>
       </div>
-      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:20px;">
-         <div style="display:flex;justify-content:space-between;gap:20px;margin-top:10px;flex-wrap:wrap;">
+      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
             <div style="flex:2;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Thématique :</span>
@@ -551,7 +551,33 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
 <br/>
 <b>Les détails supplémentaires</b>
 <br/>
+
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
+
+<div style="display:flex; justify-content: center;">
+   <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
+      <div style="display:flex;align-items:center;justify-content: center;">
+         <a href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
+            <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
+      </div>
+      <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <p style="color:black;">
+               <b>Niort Marais Poitevin Tourisme</b><br/>
+               1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
+               79000 NIORT<br/>
+               <b>Téléphone </b>: 05 49 24 18 79<br/>
+               <b>Email </b>: <a href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
+               <b>Site web </b>: <a href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
