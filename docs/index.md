@@ -412,7 +412,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
                </div>
             </div>
             <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
-            <div style="flex:1;">
+            <div style="flex:2;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Difficulté :</span>
                   <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
@@ -655,7 +655,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
                </div>
             </div>
             <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
-            <div style="flex:1;">
+            <div style="flex:2;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Difficulté :</span>
                   <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;&#9825;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
