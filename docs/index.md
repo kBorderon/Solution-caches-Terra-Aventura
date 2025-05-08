@@ -48,6 +48,7 @@ Ce projet consiste en la réalisation d'une solution pour lister les caches géo
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°1 - Logo Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Les réseaux pour joindre les équipes Tèrra aventura :
@@ -103,6 +104,7 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°2 - Découverte des Poï'z</ins>
    </div>
+   <br/>
 </div>
 
 Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des explications à travers cette vidéo :
@@ -116,6 +118,7 @@ Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des expli
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°3 - Vidéo de présentation de l'application et du jeu Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin de vous épauler dans votre aventure :
@@ -137,6 +140,7 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°4 - Carte interactive des Tèrra Aventura disponibles</ins>
    </div>
+   <br/>
 </div>
 
 Liste de l'ensemble des partenaires participants à la création/gestion de Tèrra Aventura [référentiel des partenaires Tèrra Aventura](https://www.terra-aventura.fr/partenaires?langcode=fr "redirection : Page partenaires du jeu Tèrra Aventura").
@@ -152,6 +156,7 @@ Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°5 - Découverte des quêtes bonus</ins>
    </div>
+   <br/>
 </div>
 
 Puis, dans un second temps, pour pousser l'aventure un peu plus loin, vous pouvez poursuivre votre collecte de badges en réussissant les [Micro Z'aventures](https://www.terra-aventura.fr/micro-zaventures "redirection : Page micro-zaventures du jeu Tèrra Aventura") actuellement proposées. Pour plus d'informations, nous vous conseillons de consulter la rubrique [Actu](https://www.terra-aventura.fr/actu).
@@ -171,6 +176,7 @@ Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°6 - Carte de la région Nouvelle-Aquitaine</ins>
    </div>
+   <br/>
 </div>
 
 A travers ces 12 départements, partez à la recherche de votre nouvelle aventure Tèrra Aventura !
@@ -192,6 +198,7 @@ Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°7 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").  
@@ -209,6 +216,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°8 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -226,6 +234,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°9 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -243,6 +252,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°10 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -260,6 +270,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°11 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -277,6 +288,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°12 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -294,6 +306,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°13 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -311,6 +324,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°14 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -328,6 +342,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°15 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -345,6 +360,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°16 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -581,6 +597,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°20 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -598,6 +615,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°21 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
@@ -615,6 +633,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°22 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
+   <br/>
 </div>
 
 Tèrra Aventura non réalisés pour le moment dans ce secteur, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
