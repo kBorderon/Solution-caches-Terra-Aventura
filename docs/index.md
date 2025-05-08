@@ -37,7 +37,7 @@ Par souci de longueur, le sommaire a été synthétisé, pour obtenir le sommair
 
 ---
 
-### Partie 1 - Présentation<a name="presentation"></a>
+### Partie 1 - Présentation<a name="presentation" title="redirection vers la partie : Partie 1 - Présentation"></a>
 
 Ce projet consiste en la réalisation d'une solution pour lister les caches géocaching des différentes quêtes **Tèrra Aventura**.
 
@@ -53,11 +53,11 @@ Ce projet consiste en la réalisation d'une solution pour lister les caches géo
 
 Les réseaux pour joindre les équipes Tèrra aventura :
 <div style="margin-left:20px;">
-   <a style="display:flex;align-items:center;" href="https://www.facebook.com/terraaventura" title="redirection : Page Facebook Tèrra Aventura">
+   <a style="display:flex;align-items:center;" target="_blank" href="https://www.facebook.com/terraaventura" title="redirection : Page Facebook Tèrra Aventura">
       <img alt="Logo Facebook" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-facebook.PNG" width="5%">
       <p>&nbsp;Facebook terra aventura</p>
    </a>
-   <a style="display:flex;align-items:center;" href="https://www.instagram.com/terraaventura_lespoiz/" title="redirection : Page Instagram Tèrra Aventura">
+   <a style="display:flex;align-items:center;" target="_blank" href="https://www.instagram.com/terraaventura_lespoiz/" title="redirection : Page Instagram Tèrra Aventura">
       <img alt="Logo Facebook" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-instagram.PNG" width="5%">
       <p>&nbsp;Instagram terraaventura_lespoiz</p>
    </a>
@@ -65,7 +65,7 @@ Les réseaux pour joindre les équipes Tèrra aventura :
 
 **N'hésitez pas à les identifier sur posts, photographies ou vidéos, lorsque le contenu est public, les équipes Tèrra Aventura les partagent également !**
 
-#### Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?<a name="poizTerraAventura"></a>
+#### Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?<a name="poizTerraAventura" title="redirection vers la partie : Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?"></a>
 
 Le **Tèrra Aventura** est un jeu de géocaching, c'est-à-dire un jeu de chasse au trésor qui s'adresse à tous, en plein air, pour laquelle chacun des participants doit être muni d'un smartphone ou d'un GPS pour retrouver des lieux clés associés à des caches.  
 
@@ -75,7 +75,7 @@ Ces dernières se débloquent en répondant à des énigmes présentes sur l'app
 
 L'objectif est simple, il s'agit de vous faire découvrir le patrimoine local, ses anecdotes, tout en s'amusant !
 
-#### Règlement Tèrra Aventura<a name="reglement"></a>
+#### Règlement Tèrra Aventura<a name="reglement" title="redirection vers la partie : Règlement Tèrra Aventura"></a>
 
 Vous trouverez via cette page les [conditions générales d'utilisation du jeu Tèrra Aventura](https://www.terra-aventura.fr/conditions-generales-dutilisation-du-jeu-terra-aventura "redirection : Page conditions générales d'utilisation du jeu Tèrra Aventura"), ainsi que la pagé dédiée pour les [mentions légales](https://www.terra-aventura.fr/mentions-legales "redirection : Page mentions légales du jeu Tèrra Aventura").
 
@@ -91,14 +91,14 @@ Concernant la charte, pour être reconnu en tant que véritable aventurier, voic
 > 9. Avant de quitter ton QG, les données du parcours tu téléchargeras ;
 > 10. Et pour te déplacer : train, vélo ou co-voit' tu privilégieras !
 
-#### L'heure de la première aventure est arrivée !<a name="premiereAventure"></a>
+#### L'heure de la première aventure est arrivée !<a name="premiereAventure" title="redirection vers la partie : L'heure de la première aventure est arrivée !"></a>
 
 C'est parti, il est l'heure de relever les indices, de résoudre les énigmes et de chercher le trésor de chacun des parcours ! Venez en aide aux **Poï'z**, petits personnages aux caractères bien trempés, à débusquer et à collectionner à la fin de chaque parcours.  
 
 Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consulter cette page dédie à eux [Les Poï'z](https://www.terra-aventura.fr/les-poiz "redirection : Page les poï'z du jeu Tèrra Aventura"). Si tu souhaites en connaître plus, sur l'histoire, etc., nous te conseillons de consulter l'[Univers Tèrra Aventura](https://www.terra-aventura.fr/lunivers "redirection : Page l'univers du jeu Tèrra Aventura").
 
 <div>
-   <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
+   <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
       <img alt="Poï'z, le personnage de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz.PNG" width="50%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -134,7 +134,7 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
   - [Les solos de Terra Aventura 🥾](https://www.facebook.com/groups/863267015563601/).
 
 <div>
-   <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/parcours" title="redirection : Page parcours du jeu Tèrra Aventura">
+   <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/parcours" title="redirection : Page parcours du jeu Tèrra Aventura">
       <img alt="Carte interactive Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/carte-interactive-terra-aventura.PNG" width="75%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -145,12 +145,12 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
 
 Liste de l'ensemble des partenaires participants à la création/gestion de Tèrra Aventura [référentiel des partenaires Tèrra Aventura](https://www.terra-aventura.fr/partenaires?langcode=fr "redirection : Page partenaires du jeu Tèrra Aventura").
 
-#### Et pour poursuivre davantage l'aventure ?<a name="poursuiteAventure"></a>
+#### Et pour poursuivre davantage l'aventure ?<a name="poursuiteAventure" title="redirection vers la partie : Et pour poursuivre davantage l'aventure ?"></a>
 
 Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter régulièrement les [nouveautés](https://www.terra-aventura.fr/nouveautes "redirection : Page nouveautés du jeu Tèrra Aventura"), ainsi que les [quêtes bonus](https://www.terra-aventura.fr/les-quetes-bonus "redirection : Page les quêtes bonus du jeu Tèrra Aventura").  
 
 <div>
-   <a style="display:flex;align-items:center;justify-content:center;" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
+   <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
       <img alt="Les quêtes bonus de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/quetes-bonus.PNG" width="50%">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -165,12 +165,12 @@ Tu peux également participer à des [concours](https://www.terra-aventura.fr/co
 
 ---
 
-## Partie 2 - Aides caches Tèrra Aventura<a name="aides"></a>
+## Partie 2 - Aides caches Tèrra Aventura<a name="aides" title="redirection vers la partie : Partie 2 - Aides caches Tèrra Aventura"></a>
 
 Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé dans les départements voisins liés à la création de la région **Nouvelle-Aquitaine** dont vous trouverez la carte ci-dessous.
 
 <div>
-   <a style="display:flex;align-items:center;justify-content:center;" href="https://www.nouvelle-aquitaine.fr" title="redirection : Page La région Nouvelle-Aquitaine">
+   <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.nouvelle-aquitaine.fr" title="redirection : Page La région Nouvelle-Aquitaine">
       <img alt="Logo Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/carte-nouvelle-aquitaine.png" width="50%;">
    </a>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -189,7 +189,7 @@ Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (
 
 ---
 
-### Aides Tèrra Aventura - (16) Charente<a name="charente"></a>
+### Aides Tèrra Aventura - (16) Charente<a name="charente" title="redirection vers la partie : Aides Tèrra Aventura - (16) Charente"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -207,7 +207,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (17) Charente-Maritime<a name="charenteMaritime"></a>
+### Aides Tèrra Aventura - (17) Charente-Maritime<a name="charenteMaritime" title="redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -225,7 +225,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (19) Corrèze<a name="correze"></a>
+### Aides Tèrra Aventura - (19) Corrèze<a name="correze" title="redirection vers la partie : Aides Tèrra Aventura - (19) Corrèze"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -243,7 +243,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (23) Creuse<a name="creuse"></a>
+### Aides Tèrra Aventura - (23) Creuse<a name="creuse" title="redirection vers la partie : Aides Tèrra Aventura - (23) Creuse"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -261,7 +261,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (24) Dordogne<a name="dordogne"></a>
+### Aides Tèrra Aventura - (24) Dordogne<a name="dordogne" title="redirection vers la partie : Aides Tèrra Aventura - (24) Dordogne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -279,7 +279,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (33) Gironde<a name="gironde"></a>
+### Aides Tèrra Aventura - (33) Gironde<a name="gironde" title="redirection vers la partie : Aides Tèrra Aventura - (33) Gironde"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -297,7 +297,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (40) Landes<a name="landes"></a>
+### Aides Tèrra Aventura - (40) Landes<a name="landes" title="redirection vers la partie : Aides Tèrra Aventura - (40) Landes"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -315,7 +315,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (47) Lot-et-Garonne<a name="lotEtGaronne"></a>
+### Aides Tèrra Aventura - (47) Lot-et-Garonne<a name="lotEtGaronne" title="redirection vers la partie : Aides Tèrra Aventura - (47) Lot-et-Garonne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -333,7 +333,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (64) Pyrénées-Atlantiques<a name="pyreneesAtlantiques"></a>
+### Aides Tèrra Aventura - (64) Pyrénées-Atlantiques<a name="pyreneesAtlantiques" title="redirection vers la partie : Aides Tèrra Aventura - (64) Pyrénées-Atlantiques"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -351,7 +351,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (75) Paris<a name="paris"></a>
+### Aides Tèrra Aventura - (75) Paris<a name="paris" title="redirection vers la partie : Aides Tèrra Aventura - (75) Paris"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -369,16 +369,16 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (79) Deux-Sèvres<a name="deuxSevres"></a>
+### Aides Tèrra Aventura - (79) Deux-Sèvres<a name="deuxSevres" title="redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres"></a>
 
-#### Petites Chamoiseries entre Poï'Z - Niort 79 000<a name="petitesChamoiseries"></a>
+#### Petites Chamoiseries entre Poï'Z - Niort 79 000<a name="petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'Z - Niort 79 000"></a>
 
-Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
+Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
 
 <div style="display:flex; justify-content: center;">
-   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:750px;">
+   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
       <div style="display:flex;align-items:center;justify-content: center;">
-         <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
             <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
          </a>
          <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Petites Chamoiseries entre Poï'Z</p>
@@ -393,7 +393,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Poï'z :</span>
                   <span style="font-weight:bold;">&nbsp;
-                     <a href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
+                     <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
                         Zouti
                      </a>
                   </span>
@@ -405,7 +405,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Informations diverses :</span>
                   <span style="color:white;font-weight:bold;">&nbsp;
-                     <a href="https://www.terra-aventura.fr/caches/petites-chamoiseries-entre-poiz" title="redirection vers la page du parcours Petites Chamoiseries entre Poï'Z">
+                     <a target="_blank" href="https://www.terra-aventura.fr/caches/petites-chamoiseries-entre-poiz" title="redirection : Page du parcours Petites Chamoiseries entre Poï'Z">
                         + détails
                      </a>
                   </span>
@@ -415,7 +415,7 @@ Fiche technique du parcours Petites « **Chamoiseries entre Poï'Z** ».
             <div style="flex:1;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Difficulté :</span>
-                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;</span>
+                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
                </div>
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Terrain :</span>
@@ -558,7 +558,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <div style="display:flex; justify-content: center;">
    <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
       <div style="display:flex;align-items:center;justify-content: center;">
-         <a href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
          <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
@@ -570,8 +570,251 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
                1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
                79000 NIORT<br/>
                <b>Téléphone </b>: 05 49 24 18 79<br/>
-               <b>Email </b>: <a href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
-               <b>Site web </b>: <a href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+               <b>Email </b>: <a target="_blank" href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
+               <b>Site web </b>: <a target="_blank" href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+
+<details>
+   <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°17 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Vérification solution cache</summary>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <img width="30%" alt="Vérification de la solution pour la cache Petites Chamoiseries entre Poï'Z" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
+   </div>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°18 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Géolocalisation de la cache</summary>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°19 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Mot mystère</summary>
+   <div style="padding-left:20px;">
+      <p><b>Réponse</b> : <ins>HUILERIE</ins></p>
+   </div>
+</details>
+
+#### Maraîchin contre Bras Rouge ! - Magné 79 460<a name="maraichinBrasRouge" title="redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460"></a>
+
+Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
+
+<div style="display:flex; justify-content: center;">
+   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
+      <div style="display:flex;align-items:center;justify-content: center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-213" title="Poï'z Zisséo">
+            <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Maraîchin contre Bras Rouge !</p>
+      </div>
+      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Thématique :</span>
+                  <span style="color:white;">&nbsp;Patrimoine maritime</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Poï'z :</span>
+                  <span style="font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-213" title="Poï'z Zisséo">
+                        Zisséo
+                     </a>
+                  </span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Ville :</span>
+                  <span style="color:white;">&nbsp;79 460 - Magné</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Informations diverses :</span>
+                  <span style="color:white;font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/caches/maraichin-contre-bras-rouge" title="redirection : Page du parcours Maraîchin contre Bras Rouge !">
+                        + détails
+                     </a>
+                  </span>
+               </div>
+            </div>
+            <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
+            <div style="flex:1;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Difficulté :</span>
+                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;&#9825;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Terrain :</span>
+                  <span style="color:white;">&nbsp;&starf;&nbsp;&star;&nbsp;&star;&nbsp;&star;&nbsp;&star;</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Durée :</span>
+                  <span style="color:white;">&nbsp;1h</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Kilométrage :</span>
+                  <span style="color:white;">&nbsp;2.50Km</span>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<details>
+   <summary>Les indices aux énigmes</summary>
+   <div style="padding-left:20px;">
+      <div>
+         <details>
+            <summary>Énigme « A »</summary>
+            <div style="padding-left:20px;">
+               <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
+               <p><b>Réponse</b> : <ins>20</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « B »</summary>
+            <div style="padding-left:20px;">
+               <p>
+                  Quel numéro porte la plus petite pelle à crémaillère, servant à réguler le débit de l'eau qui actionne la roue du moulin ? Additionnez les cinq chiffres qui composent cette donnée. <br/>
+                  Vous ne trouvez pas le numéro ? Situé hors de remparts, sur un îlot de la Sèvre, le fort Foucault était un avant-poste du donjon de Niort et protégeait le port fluvial. <br/>
+                  Quel numéro porte-t-il ? <br/><br/>
+                  Ajoutez 5 à ce nombre pour obtenir la même donnée.
+               </p>
+               <p><b>Réponse</b> : <ins>21</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « C »</summary>
+            <div style="padding-left:20px;">
+               <p>Les noms des monuments emblématiques de Niort sont gravés sur le sol et pointent dans leur direction. Combien en comptez-vous dans le square et sur l'îlot ?</p>
+               <p><b>Réponse</b> : <ins>5</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « D »</summary>
+            <div style="padding-left:20px;">
+               <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
+               <p><b>Réponse</b> : <ins>3</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « E »</summary>
+            <div style="padding-left:20px;">
+               <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
+               <p><b>Réponse</b> : <ins>6</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « F »</summary>
+            <div style="padding-left:20px;">
+               <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
+               <p><b>Réponse</b> : <ins>7</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « G »</summary>
+            <div style="padding-left:20px;">
+               <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
+               <p><b>Réponse</b> : <ins>6</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « H »</summary>
+            <div style="padding-left:20px;">
+               <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ? <br/>
+               1. Des coquillages<br/>
+               2. Des étoiles<br/>
+               3. Des boutons de couture<br/>
+               Relevez le numéro de la bonne réponse.</p>
+               <p><b>Réponse</b> : <ins>1</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « I »</summary>
+            <div style="padding-left:20px;">
+               <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>
+               1. Un panier en osier<br/>
+               2. Une bourse remplie de pièces<br/>
+               3. Un valise<br/>
+               Relevez le numéro de la bonne réponse.</p>
+               <p><b>Réponse</b> : <ins>2</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « J »</summary>
+            <div style="padding-left:20px;">
+               <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
+               1. L'une est plus haute que l'autre<br/>
+               2. Les contreforts, accolés aux murs, sont plus élevés que sur l'autre<br/>
+               3. Seule l'une des tours est percée de fenêtre à meneaux (grandes ouvertures divisées en quatre)<br/>
+               4. L'une possède 5 tourelles d'angle, tandis que l'autre en a 4<br/>
+               Relevez le numéro de la bonne réponse.</p>
+               <p><b>Réponse</b> : <ins>4</ins></p>
+            </div>
+         </details>
+      </div>
+   </div>
+</details>
+<br/>
+<b>Les détails supplémentaires</b>
+<br/>
+
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+<br/>
+
+<div style="display:flex; justify-content: center;">
+   <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
+      <div style="display:flex;align-items:center;justify-content: center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
+            <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
+      </div>
+      <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <p style="color:black;">
+               <b>Niort Marais Poitevin Tourisme</b><br/>
+               1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
+               79000 NIORT<br/>
+               <b>Téléphone </b>: 05 49 24 18 79<br/>
+               <b>Email </b>: <a target="_blank" href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
+               <b>Site web </b>: <a target="_blank" href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
             </p>
          </div>
       </div>
@@ -632,7 +875,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (86) Vienne<a name="vienne"></a>
+### Aides Tèrra Aventura - (86) Vienne<a name="vienne" title="redirection vers la partie : Aides Tèrra Aventura - (86) Vienne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -650,7 +893,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (87) Haute-Vienne<a name="hauteVienne"></a>
+### Aides Tèrra Aventura - (87) Haute-Vienne<a name="hauteVienne" title="redirection vers la partie : Aides Tèrra Aventura - (87) Haute-Vienne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -668,7 +911,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-## Sommaire complet <a name="sommaireComplet"></a>
+## Sommaire complet <a name="sommaireComplet" title="redirection vers la partie : Sommaire complet"></a>
 
 1. [Présentation](#presentation "redirection vers la partie : Présentation")
    - [Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?](#poizTerraAventura "redirection vers la partie : Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?")
@@ -687,14 +930,15 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    - [Aides Tèrra Aventura - (64) Pyrénées-Atlantiques](#pyreneesAtlantiques "redirection vers la partie : Aides Tèrra Aventura - (64) Pyrénées-Atlantiques")
    - [Aides Tèrra Aventura - (75) Paris](#paris "redirection vers la partie : Aides Tèrra Aventura - (75) Paris")
    - [Aides Tèrra Aventura - (79) Deux-Sèvres](#deuxSevres "redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres")
-     - [Petites Chamoiseries entre Poï'Z - Niort 79 000](#petitesChamoiseries)
+     - [Petites Chamoiseries entre Poï'Z - Niort 79 000](#petitesChamoiseries "redirection vers la partie : Petites Chamoiseries entre Poï'Z")
+     - [Maraîchin contre Bras Rouge ! - Magné 79 460](#maraichinBrasRouge "redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460")
    - [Aides Tèrra Aventura - (86) Vienne](#vienne "redirection vers la partie : Aides Tèrra Aventura - (86) Vienne")
    - [Aides Tèrra Aventura - (87) Haute-Vienne](#hauteVienne "redirection vers la partie : Aides Tèrra Aventura - (87) Haute-Vienne")
 3. [Questions et demandes](#questions "redirection vers la partie : Questions et demandes")
 
 ---
 
-## Partie 3 - Questions et demandes<a name="questions"></a>
+## Partie 3 - Questions et demandes<a name="questions" title="redirection vers la partie : Partie 3 - Questions et demandes"></a>
 
 >Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
 >- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
