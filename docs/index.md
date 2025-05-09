@@ -501,7 +501,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
          <details>
             <summary>Énigme « G »</summary>
             <div style="padding-left:20px;">
-               <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
+               <p>Combien d'anges supportent les feuillages sculptés sur les arcs du portail principal ?</p>
                <p><b>Réponse</b> : <ins>6</ins></p>
             </div>
          </details>
@@ -510,7 +510,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
          <details>
             <summary>Énigme « H »</summary>
             <div style="padding-left:20px;">
-               <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ? <br/>
+               <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ?<br/>
                1. Des coquillages<br/>
                2. Des étoiles<br/>
                3. Des boutons de couture<br/>
@@ -685,8 +685,8 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « A »</summary>
             <div style="padding-left:20px;">
-               <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
-               <p><b>Réponse</b> : <ins>20</ins></p>
+               <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
+               <p><b>Réponse</b> : <ins>2</ins></p>
             </div>
          </details>
       </div>
@@ -694,13 +694,8 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « B »</summary>
             <div style="padding-left:20px;">
-               <p>
-                  Quel numéro porte la plus petite pelle à crémaillère, servant à réguler le débit de l'eau qui actionne la roue du moulin ? Additionnez les cinq chiffres qui composent cette donnée. <br/>
-                  Vous ne trouvez pas le numéro ? Situé hors de remparts, sur un îlot de la Sèvre, le fort Foucault était un avant-poste du donjon de Niort et protégeait le port fluvial. <br/>
-                  Quel numéro porte-t-il ? <br/><br/>
-                  Ajoutez 5 à ce nombre pour obtenir la même donnée.
-               </p>
-               <p><b>Réponse</b> : <ins>21</ins></p>
+               <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
+               <p><b>Réponse</b> : <ins>1</ins></p>
             </div>
          </details>
       </div>
@@ -708,8 +703,8 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « C »</summary>
             <div style="padding-left:20px;">
-               <p>Les noms des monuments emblématiques de Niort sont gravés sur le sol et pointent dans leur direction. Combien en comptez-vous dans le square et sur l'îlot ?</p>
-               <p><b>Réponse</b> : <ins>5</ins></p>
+               <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
+               <p><b>Réponse</b> : <ins>8</ins></p>
             </div>
          </details>
       </div>
@@ -717,8 +712,8 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « D »</summary>
             <div style="padding-left:20px;">
-               <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
-               <p><b>Réponse</b> : <ins>3</ins></p>
+               <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
+               <p><b>Réponse</b> : <ins>14</ins></p>
             </div>
          </details>
       </div>
@@ -726,8 +721,12 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « E »</summary>
             <div style="padding-left:20px;">
-               <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
-               <p><b>Réponse</b> : <ins>6</ins></p>
+               <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
+               1. Des nasses pour la pêche<br/>
+               2. Des barrières<br/>
+               3.Des rames pour les bateaux.<br/>
+               Combien de lettre composent le mot recherché ?</p>
+               <p><b>Réponse</b> : <ins>2</ins></p>
             </div>
          </details>
       </div>
@@ -735,8 +734,8 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « F »</summary>
             <div style="padding-left:20px;">
-               <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
-               <p><b>Réponse</b> : <ins>7</ins></p>
+               <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
+               <p><b>Réponse</b> : <ins>3</ins></p>
             </div>
          </details>
       </div>
@@ -744,7 +743,11 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « G »</summary>
             <div style="padding-left:20px;">
-               <p>Combien d'anges supportent  les feuillages sculptés sur les arcs du portail principal ?</p>
+               <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
+               - Louis VI le <b>Gros</b><br/>
+               - Philippe le <b>Long</b><br/>
+               - Charles le <b>Chauve</b><br/>
+               Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
                <p><b>Réponse</b> : <ins>6</ins></p>
             </div>
          </details>
@@ -753,12 +756,12 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « H »</summary>
             <div style="padding-left:20px;">
-               <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ? <br/>
-               1. Des coquillages<br/>
-               2. Des étoiles<br/>
-               3. Des boutons de couture<br/>
-               Relevez le numéro de la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>1</ins></p>
+               <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
+               - Un bras rouge = 34<br/>
+               - Un monstre = 44<br/>
+               - Un diable = 54<br/>
+               Relevez le nombre associé à la bonne réponse.</p>
+               <p><b>Réponse</b> : <ins>54</ins></p>
             </div>
          </details>
       </div>
@@ -766,26 +769,8 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
          <details>
             <summary>Énigme « I »</summary>
             <div style="padding-left:20px;">
-               <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>
-               1. Un panier en osier<br/>
-               2. Une bourse remplie de pièces<br/>
-               3. Un valise<br/>
-               Relevez le numéro de la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>2</ins></p>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « J »</summary>
-            <div style="padding-left:20px;">
-               <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
-               1. L'une est plus haute que l'autre<br/>
-               2. Les contreforts, accolés aux murs, sont plus élevés que sur l'autre<br/>
-               3. Seule l'une des tours est percée de fenêtre à meneaux (grandes ouvertures divisées en quatre)<br/>
-               4. L'une possède 5 tourelles d'angle, tandis que l'autre en a 4<br/>
-               Relevez le numéro de la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>4</ins></p>
+               <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
+               <p><b>Réponse</b> : <ins>8</ins></p>
             </div>
          </details>
       </div>
@@ -823,9 +808,9 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°17 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°20 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -833,19 +818,19 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Vérification solution cache</summary>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img width="30%" alt="Vérification de la solution pour la cache Petites Chamoiseries entre Poï'Z" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
+      <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°18 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°21 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
 
 <details>
    <summary>Géolocalisation de la cache</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°19 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°22 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -853,7 +838,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Mot mystère</summary>
    <div style="padding-left:20px;">
-      <p><b>Réponse</b> : <ins>HUILERIE</ins></p>
+      <p><b>Réponse</b> : <ins>BOUROLLE</ins></p>
    </div>
 </details>
 
