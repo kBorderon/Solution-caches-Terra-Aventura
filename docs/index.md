@@ -441,7 +441,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
@@ -453,7 +453,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>
@@ -482,7 +482,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « D »</summary>
-             <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
@@ -494,7 +494,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
@@ -506,7 +506,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
@@ -518,7 +518,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Combien d'anges supportent les feuillages sculptés sur les arcs du portail principal ?</p>
@@ -530,7 +530,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ?<br/>
@@ -546,7 +546,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>
@@ -562,7 +562,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « J »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
                <div style="margin-left:20px;">
                   <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
@@ -591,7 +591,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact Tèrra Aventura</p>
       </div>
       <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
          <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
@@ -610,7 +610,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
+   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°17 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
@@ -630,7 +630,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 <details>
    <summary>Géolocalisation de la cache</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
+   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°19 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
@@ -716,7 +716,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
@@ -728,7 +728,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
@@ -740,7 +740,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « C »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
@@ -752,7 +752,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « D »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
@@ -764,7 +764,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
@@ -780,7 +780,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
@@ -792,7 +792,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
@@ -808,7 +808,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
@@ -824,7 +824,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
                <div style="margin-left:20px;">
                   <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
@@ -848,7 +848,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact Tèrra Aventura</p>
       </div>
       <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
          <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
@@ -867,7 +867,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
+   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°20 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
@@ -887,7 +887,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 <details>
    <summary>Géolocalisation de la cache</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
+   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
       <ins>Légende n°22 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
@@ -913,7 +913,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
             <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
          </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Maraîchin contre Bras Rouge !</p>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Papiste fait de la résistance</p>
       </div>
       <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
          <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
@@ -979,7 +979,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>A Pied l’Ouaille, nombre de paysans cultivaient la noix, notamment pour en faire de l’huile. L’un d’eux se trouve près de vous ! Situé le long de la route, sur la gauche, un petit bâti (sorte de porche) dispose à l’étage d’un séchoir à noix. Combien de piquets verticaux composent sa grille en bois ?</p>
@@ -991,7 +991,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Trouvez le Méreau dessiné sur le poteau. Quel chiffre est inscrit au centre de celui-ci ?</p>
@@ -1003,7 +1003,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « C »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Comment s’appelait autrefois ce village ? Comptez combien de lettres composent ce mot commençant par « B ».</p>
@@ -1015,7 +1015,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « D »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Quel était le nom de jeune fille d’Elisabeth Migault ? A combien équivaut la première lettre de ce mot, si A=1 ; B=2 ; C=3 ; etc.</p>
@@ -1027,7 +1027,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Combien de trous y’a-t-il dans la lampe sourde ?</p>
@@ -1039,7 +1039,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Délivré par le guide tantôt, ce jeton métallique vous permet d’entrer. Ce mot finissant par le son [o] sera votre sésame pour rejoindre l’assemblée. Qui est-il ? Combien de lettres composent ce mot ?</p>
@@ -1051,7 +1051,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Quel aménagement, également désigné par le mot « bief », venez-vous de suivre pour atteindre l’assemblée du désert ? Combien de voyelles y’a-t-il dans ce mot ?</p>
@@ -1063,7 +1063,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>Un autre mets, servi à table, est cultivé à partir des plantes situées sur la parcelle au bord de la route. Comment appelle-t’-on l’activité agricole qui consiste à cultiver ces pieds ? Comptez combien de lettres composent ce mot commençant par « V ».</p>
@@ -1075,7 +1075,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
                <div style="margin-left:20px;">
                   <p>A l’aide du « miroir de Jean Migault » – ou du vôtre – observez sous le panneau. Dans quel port se trouve le navire qu’empruntera Jean pour rejoindre la Hollande ? Combien de lettres y’a-t-il dans ce nom composé ?</p>
@@ -1099,17 +1099,17 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact Tèrra Aventura</p>
       </div>
       <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
          <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
             <p style="color:black;">
-               <b>Niort Marais Poitevin Tourisme</b><br/>
-               1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
-               79000 NIORT<br/>
-               <b>Téléphone </b>: 05 49 24 18 79<br/>
-               <b>Email </b>: <a target="_blank" href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
-               <b>Site web </b>: <a target="_blank" href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+               <b>Pays Mellois</b><br/>
+               2 Place Bujault<br/>
+               79500 MELLE<br/>
+               <b>Téléphone </b>: 05 49 29 15 10<br/>
+               <b>Email </b>: <a target="_blank" href="mailto:officedetourisme@paysmellois.org" title="Mail de contact du Pays Mellois">officedetourisme@paysmellois.org</a><br/>
+               <b>Site web </b>: <a target="_blank" href="http://decouvertes.paysmellois.org" title="redirection : Site Web du Pays Mellois">http://decouvertes.paysmellois.org</a>            
             </p>
          </div>
       </div>
@@ -1118,9 +1118,9 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
+   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-prailles-papiste-fait-de-l_1221148?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=6718a691-289c-4622-9517-b066f6b61cd8&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.30062/-0.20925"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°20 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°23 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -1128,19 +1128,19 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Vérification solution cache</summary>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
+      <img width="30%" alt="Vérification de la solution pour la cache Papiste fait de la résistance" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/papiste_fait_de_la_resistance/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°21 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°24 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
 
 <details>
    <summary>Géolocalisation de la cache</summary>
-   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
+   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-prailles-papiste-fait-de-la-r_1221159?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=f1f1798f-b65c-49ab-917a-0b4630ec75c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.29886/-0.20738"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°22 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°25 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -1159,7 +1159,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°20 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°26 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1177,7 +1177,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°21 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°27 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1195,7 +1195,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°22 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°28 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
