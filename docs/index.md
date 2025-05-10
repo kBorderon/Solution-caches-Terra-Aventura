@@ -375,9 +375,9 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
 
-<div style="display:flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
-      <div style="display:flex;align-items:center;justify-content: center;">
+      <div style="display:flex;align-items:center;justify-content:center;">
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
             <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
          </a>
@@ -411,7 +411,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
                   </span>
                </div>
             </div>
-            <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
+            <div style="flex:1;border-left:1px solid white;height:80px;"></div>
             <div style="flex:2;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Difficulté :</span>
@@ -441,108 +441,138 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div style="padding-left:20px;">
-               <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
-               <p><b>Réponse</b> : <ins>20</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Cette usine fut créée en 1881 par Monsieur BOINOT, négociant en laine. Ses z'initiales sont forgées sur le portail d'entrée... En plus du « B », quelle autre lettre y figure ? Quelle est sa place dans l'alphabet (A= 1, B = 2, etc.) ?</p>
+                  <p><b>Réponse</b> : <ins>20</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div style="padding-left:20px;">
-               <p>
-                  Quel numéro porte la plus petite pelle à crémaillère, servant à réguler le débit de l'eau qui actionne la roue du moulin ? Additionnez les cinq chiffres qui composent cette donnée. <br/>
-                  Vous ne trouvez pas le numéro ? Situé hors de remparts, sur un îlot de la Sèvre, le fort Foucault était un avant-poste du donjon de Niort et protégeait le port fluvial. <br/>
-                  Quel numéro porte-t-il ? <br/><br/>
-                  Ajoutez 5 à ce nombre pour obtenir la même donnée.
-               </p>
-               <p><b>Réponse</b> : <ins>21</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>
+                     Quel numéro porte la plus petite pelle à crémaillère, servant à réguler le débit de l'eau qui actionne la roue du moulin ? Additionnez les cinq chiffres qui composent cette donnée. <br/>
+                     Vous ne trouvez pas le numéro ? Situé hors de remparts, sur un îlot de la Sèvre, le fort Foucault était un avant-poste du donjon de Niort et protégeait le port fluvial. <br/>
+                     Quel numéro porte-t-il ? <br/><br/>
+                     Ajoutez 5 à ce nombre pour obtenir la même donnée.
+                  </p>
+                  <p><b>Réponse</b> : <ins>21</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « C »</summary>
-            <div style="padding-left:20px;">
-               <p>Les noms des monuments emblématiques de Niort sont gravés sur le sol et pointent dans leur direction. Combien en comptez-vous dans le square et sur l'îlot ?</p>
-               <p><b>Réponse</b> : <ins>5</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Les noms des monuments emblématiques de Niort sont gravés sur le sol et pointent dans leur direction. Combien en comptez-vous dans le square et sur l'îlot ?</p>
+                  <p><b>Réponse</b> : <ins>5</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « D »</summary>
-            <div style="padding-left:20px;">
-               <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
-               <p><b>Réponse</b> : <ins>3</ins></p>
+             <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Combien de niveaux (de marches) compte le quai situé sur l'autre rive ?</p>
+                  <p><b>Réponse</b> : <ins>3</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div style="padding-left:20px;">
-               <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
-               <p><b>Réponse</b> : <ins>6</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Niort fait partie du « Parc Naturel Régional du Marais Poitevin ». Mais celui créé le long de la Sèvre Niortaise, n'est pas « régional », il est « ____ ». Combien de lettre composent le mot recherché ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div style="padding-left:20px;">
-               <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
-               <p><b>Réponse</b> : <ins>7</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel numéro porte le régiment des Hussards qui occupa la caserne Du Guesclin, de 1892 à la Première Guerre Mondiale ?</p>
+                  <p><b>Réponse</b> : <ins>7</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div style="padding-left:20px;">
-               <p>Combien d'anges supportent les feuillages sculptés sur les arcs du portail principal ?</p>
-               <p><b>Réponse</b> : <ins>6</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Combien d'anges supportent les feuillages sculptés sur les arcs du portail principal ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div style="padding-left:20px;">
-               <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ?<br/>
-               1. Des coquillages<br/>
-               2. Des étoiles<br/>
-               3. Des boutons de couture<br/>
-               Relevez le numéro de la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>1</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>L'œuvre « Cosmos » a été réalisée par un sculpteur né à Niort : Richard TEXIER. Aujourd'hui, il expose dans le monde entier ! Que représentent les écailles du poisson-oiseau ?<br/>
+                  1. Des coquillages<br/>
+                  2. Des étoiles<br/>
+                  3. Des boutons de couture<br/>
+                  Relevez le numéro de la bonne réponse.</p>
+                  <p><b>Réponse</b> : <ins>1</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div style="padding-left:20px;">
-               <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>
-               1. Un panier en osier<br/>
-               2. Une bourse remplie de pièces<br/>
-               3. Un valise<br/>
-               Relevez le numéro de la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>2</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Ce coquin de Zéchopp est représenté sur le fronton de la halle, en la personne de Mercure : dieu du commerce, des voyageurs... et des voleurs ! Trouvez-le, à gauche de l'horloge. Que tient-il dans sa main gauche ?<br/>
+                  1. Un panier en osier<br/>
+                  2. Une bourse remplie de pièces<br/>
+                  3. Un valise<br/>
+                  Relevez le numéro de la bonne réponse.</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « J »</summary>
-            <div style="padding-left:20px;">
-               <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
-               1. L'une est plus haute que l'autre<br/>
-               2. Les contreforts, accolés aux murs, sont plus élevés que sur l'autre<br/>
-               3. Seule l'une des tours est percée de fenêtre à meneaux (grandes ouvertures divisées en quatre)<br/>
-               4. L'une possède 5 tourelles d'angle, tandis que l'autre en a 4<br/>
-               Relevez le numéro de la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>4</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Faites le tour du donjon pour répondre à la question. Les deux tours se ressemblent beaucoup, mais possèdent quelques différences... Parmi les propositions suivantes, trouvez l'intrus !<br/>
+                  1. L'une est plus haute que l'autre<br/>
+                  2. Les contreforts, accolés aux murs, sont plus élevés que sur l'autre<br/>
+                  3. Seule l'une des tours est percée de fenêtre à meneaux (grandes ouvertures divisées en quatre)<br/>
+                  4. L'une possède 5 tourelles d'angle, tandis que l'autre en a 4<br/>
+                  Relevez le numéro de la bonne réponse.</p>
+                  <p><b>Réponse</b> : <ins>4</ins></p>
+               </div>
             </div>
          </details>
       </div>
@@ -555,9 +585,9 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
 En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
 
-<div style="display:flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
-      <div style="display:flex;align-items:center;justify-content: center;">
+      <div style="display:flex;align-items:center;justify-content:center;">
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
@@ -620,9 +650,9 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
 
-<div style="display:flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
-      <div style="display:flex;align-items:center;justify-content: center;">
+      <div style="display:flex;align-items:center;justify-content:center;">
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-213" title="Poï'z Zisséo">
             <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
          </a>
@@ -656,7 +686,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
                   </span>
                </div>
             </div>
-            <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
+            <div style="flex:1;border-left:1px solid white;height:80px;"></div>
             <div style="flex:2;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Difficulté :</span>
@@ -686,93 +716,120 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div style="padding-left:20px;">
-               <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
-               <p><b>Réponse</b> : <ins>2</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div style="padding-left:20px;">
-               <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
-               <p><b>Réponse</b> : <ins>1</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
+                  <p><b>Réponse</b> : <ins>1</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « C »</summary>
-            <div style="padding-left:20px;">
-               <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
-               <p><b>Réponse</b> : <ins>8</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
+                  <p><b>Réponse</b> : <ins>8</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « D »</summary>
-            <div style="padding-left:20px;">
-               <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
-               <p><b>Réponse</b> : <ins>14</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
+                  <p><b>Réponse</b> : <ins>14</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div style="padding-left:20px;">
-               <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
-               1. Des nasses pour la pêche<br/>
-               2. Des barrières<br/>
-               3.Des rames pour les bateaux.<br/>
-               Combien de lettre composent le mot recherché ?</p>
-               <p><b>Réponse</b> : <ins>2</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
+                  1. Des nasses pour la pêche<br/>
+                  2. Des barrières<br/>
+                  3.Des rames pour les bateaux.<br/>
+                  Combien de lettre composent le mot recherché ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div style="padding-left:20px;">
-               <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
-               <p><b>Réponse</b> : <ins>3</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
+                  <p><b>Réponse</b> : <ins>3</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div style="padding-left:20px;">
-               <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
-               - Louis VI le <b>Gros</b><br/>
-               - Philippe le <b>Long</b><br/>
-               - Charles le <b>Chauve</b><br/>
-               Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
-               <p><b>Réponse</b> : <ins>6</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
+                  - Louis VI le <b>Gros</b><br/>
+                  - Philippe le <b>Long</b><br/>
+                  - Charles le <b>Chauve</b><br/>
+                  Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div style="padding-left:20px;">
-               <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
-               - Un bras rouge = 34<br/>
-               - Un monstre = 44<br/>
-               - Un diable = 54<br/>
-               Relevez le nombre associé à la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>54</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
+                  - Un bras rouge = 34<br/>
+                  - Un monstre = 44<br/>
+                  - Un diable = 54<br/>
+                  Relevez le nombre associé à la bonne réponse.</p>
+                  <p><b>Réponse</b> : <ins>54</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div style="padding-left:20px;">
-               <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
-               <p><b>Réponse</b> : <ins>8</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
+                  <p><b>Réponse</b> : <ins>8</ins></p>
+               </div>
             </div>
          </details>
       </div>
@@ -785,9 +842,9 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
 En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
 
-<div style="display:flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
-      <div style="display:flex;align-items:center;justify-content: center;">
+      <div style="display:flex;align-items:center;justify-content:center;">
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
@@ -848,11 +905,11 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 #### Papiste fait de la résistance - Prailles 79 370<a name="papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370"></a>
 
-Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
+Fiche technique du parcours « **Papiste fait de la résistance** ».
 
-<div style="display:flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
-      <div style="display:flex;align-items:center;justify-content: center;">
+      <div style="display:flex;align-items:center;justify-content:center;">
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
             <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
          </a>
@@ -886,7 +943,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
                   </span>
                </div>
             </div>
-            <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
+            <div style="flex:1;border-left:1px solid white;height: 80px;"></div>
             <div style="flex:2;">
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Difficulté :</span>
@@ -910,7 +967,7 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
    </div>
 </div>
 
-<div style="margin-left:20px;">
+<div style="display:flex;align-items:center;justify-content:center;">
    <img style="background-color:transparent;" alt="Logo alerte" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-alerte.PNG">
    <b>&nbsp;Avant de partir, pensez à vous munir d’un miroir de poche. Par temps humide, n’oubliez pas de chausser les bottes.</b>
 </div>
@@ -922,93 +979,108 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       <div>
          <details>
             <summary>Énigme « A »</summary>
-            <div style="padding-left:20px;">
-               <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
-               <p><b>Réponse</b> : <ins>2</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>A Pied l’Ouaille, nombre de paysans cultivaient la noix, notamment pour en faire de l’huile. L’un d’eux se trouve près de vous ! Situé le long de la route, sur la gauche, un petit bâti (sorte de porche) dispose à l’étage d’un séchoir à noix. Combien de piquets verticaux composent sa grille en bois ?</p>
+                  <p><b>Réponse</b> : <ins>25</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « B »</summary>
-            <div style="padding-left:20px;">
-               <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
-               <p><b>Réponse</b> : <ins>1</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Trouvez le Méreau dessiné sur le poteau. Quel chiffre est inscrit au centre de celui-ci ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « C »</summary>
-            <div style="padding-left:20px;">
-               <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
-               <p><b>Réponse</b> : <ins>8</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Comment s’appelait autrefois ce village ? Comptez combien de lettres composent ce mot commençant par « B ».</p>
+                  <p><b>Réponse</b> : <ins>8</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « D »</summary>
-            <div style="padding-left:20px;">
-               <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
-               <p><b>Réponse</b> : <ins>14</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel était le nom de jeune fille d’Elisabeth Migault ? A combien équivaut la première lettre de ce mot, si A=1 ; B=2 ; C=3 ; etc.</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « E »</summary>
-            <div style="padding-left:20px;">
-               <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
-               1. Des nasses pour la pêche<br/>
-               2. Des barrières<br/>
-               3.Des rames pour les bateaux.<br/>
-               Combien de lettre composent le mot recherché ?</p>
-               <p><b>Réponse</b> : <ins>2</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Combien de trous y’a-t-il dans la lampe sourde ?</p>
+                  <p><b>Réponse</b> : <ins>5</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « F »</summary>
-            <div style="padding-left:20px;">
-               <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
-               <p><b>Réponse</b> : <ins>3</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Délivré par le guide tantôt, ce jeton métallique vous permet d’entrer. Ce mot finissant par le son [o] sera votre sésame pour rejoindre l’assemblée. Qui est-il ? Combien de lettres composent ce mot ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « G »</summary>
-            <div style="padding-left:20px;">
-               <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
-               - Louis VI le <b>Gros</b><br/>
-               - Philippe le <b>Long</b><br/>
-               - Charles le <b>Chauve</b><br/>
-               Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
-               <p><b>Réponse</b> : <ins>6</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel aménagement, également désigné par le mot « bief », venez-vous de suivre pour atteindre l’assemblée du désert ? Combien de voyelles y’a-t-il dans ce mot ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « H »</summary>
-            <div style="padding-left:20px;">
-               <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
-               - Un bras rouge = 34<br/>
-               - Un monstre = 44<br/>
-               - Un diable = 54<br/>
-               Relevez le nombre associé à la bonne réponse.</p>
-               <p><b>Réponse</b> : <ins>54</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Un autre mets, servi à table, est cultivé à partir des plantes situées sur la parcelle au bord de la route. Comment appelle-t’-on l’activité agricole qui consiste à cultiver ces pieds ? Comptez combien de lettres composent ce mot commençant par « V ».</p>
+                  <p><b>Réponse</b> : <ins>11</ins></p>
+               </div>
             </div>
          </details>
       </div>
       <div>
          <details>
             <summary>Énigme « I »</summary>
-            <div style="padding-left:20px;">
-               <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
-               <p><b>Réponse</b> : <ins>8</ins></p>
+            <div style="margin: 20px 0px 20px 0;padding-left:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>A l’aide du « miroir de Jean Migault » – ou du vôtre – observez sous le panneau. Dans quel port se trouve le navire qu’empruntera Jean pour rejoindre la Hollande ? Combien de lettres y’a-t-il dans ce nom composé ?</p>
+                  <p><b>Réponse</b> : <ins>10</ins></p>
+               </div>
             </div>
          </details>
       </div>
@@ -1021,9 +1093,9 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
 En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
 
-<div style="display:flex; justify-content: center;">
+<div style="display:flex;justify-content:center;">
    <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
-      <div style="display:flex;align-items:center;justify-content: center;">
+      <div style="display:flex;align-items:center;justify-content:center;">
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
             <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
          </a>
@@ -1076,7 +1148,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Mot mystère</summary>
    <div style="padding-left:20px;">
-      <p><b>Réponse</b> : <ins>BOUROLLE</ins></p>
+      <p><b>Réponse</b> : <ins>HUGUENOTE</ins></p>
    </div>
 </details>
 
