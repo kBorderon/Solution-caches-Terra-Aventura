@@ -614,6 +614,8 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    </div>
 </details>
 
+---
+
 #### Maraîchin contre Bras Rouge ! - Magné 79 460<a name="maraichinBrasRouge" title="redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460"></a>
 
 Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
@@ -677,6 +679,242 @@ Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
       </div>
    </div>
 </div>
+
+<details>
+   <summary>Les indices aux énigmes</summary>
+   <div style="padding-left:20px;">
+      <div>
+         <details>
+            <summary>Énigme « A »</summary>
+            <div style="padding-left:20px;">
+               <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
+               <p><b>Réponse</b> : <ins>2</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « B »</summary>
+            <div style="padding-left:20px;">
+               <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
+               <p><b>Réponse</b> : <ins>1</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « C »</summary>
+            <div style="padding-left:20px;">
+               <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
+               <p><b>Réponse</b> : <ins>8</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « D »</summary>
+            <div style="padding-left:20px;">
+               <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
+               <p><b>Réponse</b> : <ins>14</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « E »</summary>
+            <div style="padding-left:20px;">
+               <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
+               1. Des nasses pour la pêche<br/>
+               2. Des barrières<br/>
+               3.Des rames pour les bateaux.<br/>
+               Combien de lettre composent le mot recherché ?</p>
+               <p><b>Réponse</b> : <ins>2</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « F »</summary>
+            <div style="padding-left:20px;">
+               <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
+               <p><b>Réponse</b> : <ins>3</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « G »</summary>
+            <div style="padding-left:20px;">
+               <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
+               - Louis VI le <b>Gros</b><br/>
+               - Philippe le <b>Long</b><br/>
+               - Charles le <b>Chauve</b><br/>
+               Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
+               <p><b>Réponse</b> : <ins>6</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « H »</summary>
+            <div style="padding-left:20px;">
+               <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
+               - Un bras rouge = 34<br/>
+               - Un monstre = 44<br/>
+               - Un diable = 54<br/>
+               Relevez le nombre associé à la bonne réponse.</p>
+               <p><b>Réponse</b> : <ins>54</ins></p>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « I »</summary>
+            <div style="padding-left:20px;">
+               <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
+               <p><b>Réponse</b> : <ins>8</ins></p>
+            </div>
+         </details>
+      </div>
+   </div>
+</details>
+<br/>
+<b>Les détails supplémentaires</b>
+<br/>
+
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+<br/>
+
+<div style="display:flex; justify-content: center;">
+   <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
+      <div style="display:flex;align-items:center;justify-content: center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
+            <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact office de tourisme</p>
+      </div>
+      <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <p style="color:black;">
+               <b>Niort Marais Poitevin Tourisme</b><br/>
+               1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
+               79000 NIORT<br/>
+               <b>Téléphone </b>: 05 49 24 18 79<br/>
+               <b>Email </b>: <a target="_blank" href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
+               <b>Site web </b>: <a target="_blank" href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+
+<details>
+   <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°20 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Vérification solution cache</summary>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
+   </div>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°21 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Géolocalisation de la cache</summary>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°22 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Mot mystère</summary>
+   <div style="padding-left:20px;">
+      <p><b>Réponse</b> : <ins>BOUROLLE</ins></p>
+   </div>
+</details>
+
+---
+
+#### Papiste fait de la résistance - Prailles 79 370<a name="papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370"></a>
+
+Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
+
+<div style="display:flex; justify-content: center;">
+   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
+      <div style="display:flex;align-items:center;justify-content: center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
+            <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Maraîchin contre Bras Rouge !</p>
+      </div>
+      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Thématique :</span>
+                  <span style="color:white;">&nbsp;Résistance</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Poï'z :</span>
+                  <span style="font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
+                        Zonelib'
+                     </a>
+                  </span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Ville :</span>
+                  <span style="color:white;">&nbsp;79 370 - Prailles</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Informations diverses :</span>
+                  <span style="color:white;font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/caches/papiste-fait-de-resistance" title="redirection : Page du parcours Papiste fait de la résistance">
+                        + détails
+                     </a>
+                  </span>
+               </div>
+            </div>
+            <div style="flex:1;border-left: 1px solid white; height: 80px;"></div>
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Difficulté :</span>
+                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Terrain :</span>
+                  <span style="color:white;">&nbsp;&starf;&nbsp;&starf;&nbsp;&starf;&nbsp;&starf;&nbsp;&star;</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Durée :</span>
+                  <span style="color:white;">&nbsp;2h - 3h</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Kilométrage :</span>
+                  <span style="color:white;">&nbsp;5Km</span>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<div style="margin-left:20px;">
+   <img style="background-color:transparent;" alt="Logo alerte" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-alerte.PNG">
+   <b>&nbsp;Avant de partir, pensez à vous munir d’un miroir de poche. Par temps humide, n’oubliez pas de chausser les bottes.</b>
+</div>
+<br/>
 
 <details>
    <summary>Les indices aux énigmes</summary>
@@ -917,6 +1155,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    - [Aides Tèrra Aventura - (79) Deux-Sèvres](#deuxSevres "redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres")
      - [Petites Chamoiseries entre Poï'Z - Niort 79 000](#petitesChamoiseries "redirection vers la partie : Petites Chamoiseries entre Poï'Z")
      - [Maraîchin contre Bras Rouge ! - Magné 79 460](#maraichinBrasRouge "redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460")
+     - [Papiste fait de la résistance - Prailles 79 370](#papisteResistance "redirection vers la partie : Papiste fait de la résistance - Prailles 79 370")
    - [Aides Tèrra Aventura - (86) Vienne](#vienne "redirection vers la partie : Aides Tèrra Aventura - (86) Vienne")
    - [Aides Tèrra Aventura - (87) Haute-Vienne](#hauteVienne "redirection vers la partie : Aides Tèrra Aventura - (87) Haute-Vienne")
 3. [Questions et demandes](#questions "redirection vers la partie : Questions et demandes")
