@@ -38,7 +38,7 @@ Par souci de longueur, le sommaire a été synthétisé, pour obtenir le sommair
 
 ---
 
-### Partie 1 - Présentation<a href="#presentation" title="redirection vers la partie : Partie 1 - Présentation"></a>
+### Partie 1 - Présentation<a id="presentation" title="redirection vers la partie : Partie 1 - Présentation"></a>
 
 Ce projet consiste en la réalisation d'une solution pour lister les caches géocaching des différentes quêtes **Tèrra Aventura**.
 
@@ -66,7 +66,7 @@ Les réseaux pour joindre les équipes Tèrra aventura :
 
 **N'hésitez pas à les identifier sur posts, photographies ou vidéos, lorsque le contenu est public, les équipes Tèrra Aventura les partagent également !**
 
-#### Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?<a href="#poizTerraAventura" title="redirection vers la partie : Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?"></a>
+#### Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?<a id="poizTerraAventura" title="redirection vers la partie : Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?"></a>
 
 Le **Tèrra Aventura** est un jeu de géocaching, c'est-à-dire un jeu de chasse au trésor qui s'adresse à tous, en plein air, pour laquelle chacun des participants doit être muni d'un smartphone ou d'un GPS pour retrouver des lieux clés associés à des caches.  
 
@@ -76,7 +76,7 @@ Ces dernières se débloquent en répondant à des énigmes présentes sur l'app
 
 L'objectif est simple, il s'agit de vous faire découvrir le patrimoine local, ses anecdotes, tout en s'amusant !
 
-#### Règlement Tèrra Aventura<a href="#reglement" title="redirection vers la partie : Règlement Tèrra Aventura"></a>
+#### Règlement Tèrra Aventura<a id="reglement" title="redirection vers la partie : Règlement Tèrra Aventura"></a>
 
 Vous trouverez via cette page les [conditions générales d'utilisation du jeu Tèrra Aventura](https://www.terra-aventura.fr/conditions-generales-dutilisation-du-jeu-terra-aventura "redirection : Page conditions générales d'utilisation du jeu Tèrra Aventura"), ainsi que la pagé dédiée pour les [mentions légales](https://www.terra-aventura.fr/mentions-legales "redirection : Page mentions légales du jeu Tèrra Aventura").
 
@@ -92,7 +92,7 @@ Concernant la charte, pour être reconnu en tant que véritable aventurier, voic
 > 9. Avant de quitter ton QG, les données du parcours tu téléchargeras ;
 > 10. Et pour te déplacer : train, vélo ou co-voit' tu privilégieras !
 
-#### L'heure de la première aventure est arrivée !<a href="#premiereAventure" title="redirection vers la partie : L'heure de la première aventure est arrivée !"></a>
+#### L'heure de la première aventure est arrivée !<a id="premiereAventure" title="redirection vers la partie : L'heure de la première aventure est arrivée !"></a>
 
 C'est parti, il est l'heure de relever les indices, de résoudre les énigmes et de chercher le trésor de chacun des parcours ! Venez en aide aux **Poï'z**, petits personnages aux caractères bien trempés, à débusquer et à collectionner à la fin de chaque parcours.  
 
@@ -146,7 +146,7 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
 
 Liste de l'ensemble des partenaires participants à la création/gestion de Tèrra Aventura [référentiel des partenaires Tèrra Aventura](https://www.terra-aventura.fr/partenaires?langcode=fr "redirection : Page partenaires du jeu Tèrra Aventura").
 
-#### Et pour poursuivre davantage l'aventure ?<a href="#poursuiteAventure" title="redirection vers la partie : Et pour poursuivre davantage l'aventure ?"></a>
+#### Et pour poursuivre davantage l'aventure ?<a id="poursuiteAventure" title="redirection vers la partie : Et pour poursuivre davantage l'aventure ?"></a>
 
 Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter régulièrement les [nouveautés](https://www.terra-aventura.fr/nouveautes "redirection : Page nouveautés du jeu Tèrra Aventura"), ainsi que les [quêtes bonus](https://www.terra-aventura.fr/les-quetes-bonus "redirection : Page les quêtes bonus du jeu Tèrra Aventura").  
 
@@ -166,7 +166,7 @@ Tu peux également participer à des [concours](https://www.terra-aventura.fr/co
 
 ---
 
-## Partie 2 - Aides caches Tèrra Aventura<a href="#aides" title="redirection vers la partie : Partie 2 - Aides caches Tèrra Aventura"></a>
+## Partie 2 - Aides caches Tèrra Aventura<a id="aides" title="redirection vers la partie : Partie 2 - Aides caches Tèrra Aventura"></a>
 
 Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé dans les départements voisins liés à la création de la région **Nouvelle-Aquitaine** dont vous trouverez la carte ci-dessous.
 
@@ -190,7 +190,7 @@ Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (
 
 ---
 
-### Aides Tèrra Aventura - Tèrra Aventura par thématique<a href="#thematique" title="redirection vers la partie : Tèrra Aventura par thématique"></a>
+### Aides Tèrra Aventura - Tèrra Aventura par thématique<a id="thematique" title="redirection vers la partie : Tèrra Aventura par thématique"></a>
 
 Vous trouverez ci-dessous la liste exhaustive des thématiques des différents parcours Tèrra Aventura existants :
 
@@ -805,7 +805,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (16) Charente<a href="#charente" title="redirection vers la partie : Aides Tèrra Aventura - (16) Charente"></a>
+### Aides Tèrra Aventura - (16) Charente<a id="charente" title="redirection vers la partie : Aides Tèrra Aventura - (16) Charente"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -823,7 +823,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (17) Charente-Maritime<a href="#charenteMaritime" title="redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime"></a>
+### Aides Tèrra Aventura - (17) Charente-Maritime<a id="charenteMaritime" title="redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -841,7 +841,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (19) Corrèze<a href="#correze" title="redirection vers la partie : Aides Tèrra Aventura - (19) Corrèze"></a>
+### Aides Tèrra Aventura - (19) Corrèze<a id="correze" title="redirection vers la partie : Aides Tèrra Aventura - (19) Corrèze"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -859,7 +859,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (23) Creuse<a href="#creuse" title="redirection vers la partie : Aides Tèrra Aventura - (23) Creuse"></a>
+### Aides Tèrra Aventura - (23) Creuse<a id="creuse" title="redirection vers la partie : Aides Tèrra Aventura - (23) Creuse"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -877,7 +877,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (24) Dordogne<a href="#dordogne" title="redirection vers la partie : Aides Tèrra Aventura - (24) Dordogne"></a>
+### Aides Tèrra Aventura - (24) Dordogne<a id="dordogne" title="redirection vers la partie : Aides Tèrra Aventura - (24) Dordogne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -895,7 +895,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (33) Gironde<a href="#gironde" title="redirection vers la partie : Aides Tèrra Aventura - (33) Gironde"></a>
+### Aides Tèrra Aventura - (33) Gironde<a id="gironde" title="redirection vers la partie : Aides Tèrra Aventura - (33) Gironde"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -913,7 +913,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (40) Landes<a href="#landes" title="redirection vers la partie : Aides Tèrra Aventura - (40) Landes"></a>
+### Aides Tèrra Aventura - (40) Landes<a id="landes" title="redirection vers la partie : Aides Tèrra Aventura - (40) Landes"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -931,7 +931,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (47) Lot-et-Garonne<a href="#lotEtGaronne" title="redirection vers la partie : Aides Tèrra Aventura - (47) Lot-et-Garonne"></a>
+### Aides Tèrra Aventura - (47) Lot-et-Garonne<a id="lotEtGaronne" title="redirection vers la partie : Aides Tèrra Aventura - (47) Lot-et-Garonne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -949,7 +949,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (64) Pyrénées-Atlantiques<a href="#pyreneesAtlantiques" title="redirection vers la partie : Aides Tèrra Aventura - (64) Pyrénées-Atlantiques"></a>
+### Aides Tèrra Aventura - (64) Pyrénées-Atlantiques<a id="pyreneesAtlantiques" title="redirection vers la partie : Aides Tèrra Aventura - (64) Pyrénées-Atlantiques"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -967,7 +967,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (75) Paris<a href="#paris" title="redirection vers la partie : Aides Tèrra Aventura - (75) Paris"></a>
+### Aides Tèrra Aventura - (75) Paris<a id="paris" title="redirection vers la partie : Aides Tèrra Aventura - (75) Paris"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -985,9 +985,9 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (79) Deux-Sèvres<a href="#deuxSevres" title="redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres"></a>
+### Aides Tèrra Aventura - (79) Deux-Sèvres<a id="deuxSevres" title="redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres"></a>
 
-#### Petites Chamoiseries entre Poï'Z - Niort 79 000<a href="#petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'Z - Niort 79 000"></a>
+#### Petites Chamoiseries entre Poï'Z - Niort 79 000<a id="petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'Z - Niort 79 000"></a>
 
 Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
 
@@ -1264,7 +1264,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 ---
 
-#### Maraîchin contre Bras Rouge ! - Magné 79 460<a href="#maraichinBrasRouge" title="redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460"></a>
+#### Maraîchin contre Bras Rouge ! - Magné 79 460<a id="maraichinBrasRouge" title="redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460"></a>
 
 Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
 
@@ -1523,7 +1523,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 ---
 
-#### Papiste fait de la résistance - Prailles 79 370<a href="#papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370"></a>
+#### Papiste fait de la résistance - Prailles 79 370<a id="papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370"></a>
 
 Fiche technique du parcours « **Papiste fait de la résistance** ».
 
@@ -1792,7 +1792,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (86) Vienne<a href="#vienne" title="redirection vers la partie : Aides Tèrra Aventura - (86) Vienne"></a>
+### Aides Tèrra Aventura - (86) Vienne<a id="vienne" title="redirection vers la partie : Aides Tèrra Aventura - (86) Vienne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -1810,7 +1810,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-### Aides Tèrra Aventura - (87) Haute-Vienne<a href="#hauteVienne" title="redirection vers la partie : Aides Tèrra Aventura - (87) Haute-Vienne"></a>
+### Aides Tèrra Aventura - (87) Haute-Vienne<a id="hauteVienne" title="redirection vers la partie : Aides Tèrra Aventura - (87) Haute-Vienne"></a>
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -1828,7 +1828,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-## Sommaire complet <a href="#sommaireComplet" title="redirection vers la partie : Sommaire complet"></a>
+## Sommaire complet <a id="sommaireComplet" title="redirection vers la partie : Sommaire complet"></a>
 
 1. [Présentation](#presentation "redirection vers la partie : Présentation")
    - [Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?](#poizTerraAventura "redirection vers la partie : Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?")
@@ -1857,7 +1857,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ---
 
-## Partie 3 - Questions et demandes<a href="#questions" title="redirection vers la partie : Partie 3 - Questions et demandes"></a>
+## Partie 3 - Questions et demandes<a id="questions" title="redirection vers la partie : Partie 3 - Questions et demandes"></a>
 
 >Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
 >- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
