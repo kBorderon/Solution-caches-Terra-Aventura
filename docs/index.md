@@ -1,10 +1,10 @@
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues "redirection : Ouverture d'un ticket Github associé au projet")
-[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%FkBorderon%2FChappyBot)](https://twitter.com/intent/tweet?text=@Kevin_Borderon%20Projet%20Solutions%20caches%20Terra%20Aventura%20:&url=https://github.com/kBorderon/Solutions-caches-Terra-Aventura "redirection : Compte twitter pour échanger à propos du projet")
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white&label=Contactez%20moi)](mailto:kevin.borderon85180@gmail.com "redirection : Création d'un mail pour échanger à propos du sujet")
-[![GitHub issues](https://img.shields.io/github/issues/kBorderon/ChappyBot.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues "redirection : Consultation des tickets Github ouverts, associés au projet")
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/kBorderon/ChappyBot.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues?q=is%3Aissue+is%3Aclosed "redirection : Consultation des tickets Github fermés, associés au projet")
+[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%FkBorderon%2FChappyBot)](https://twitter.com/intent/tweet?text=@Kevin_Borderon%20Projet%20Solutions%20caches%20Terra%20Aventura%20:&url=https://github.com/kBorderon/Solutions-caches-Terra-Aventura "redirection : Compte twitter pour échanger à propos du projet"){:target="_blank"}
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white&label=Contactez%20moi)](mailto:kevin.borderon85180@gmail.com "redirection : Création d'un mail pour échanger à propos du sujet"){:target="_blank"}
+[![GitHub issues](https://img.shields.io/github/issues/kBorderon/ChappyBot.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues "redirection : Consultation des tickets Github ouverts, associés au projet"){:target="_blank"}
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/kBorderon/ChappyBot.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues?q=is%3Aissue+is%3Aclosed "redirection : Consultation des tickets Github fermés, associés au projet"){:target="_blank"}
 
-Le projet Github associé à cette Github Page est disponible via le lien [Solution cache Tèrra Aventura](https://github.com/kBorderon/Solution-caches-Terra-Aventura "redirection : Page Github Solutions caches Tèrra Aventura").
+Le projet Github associé à cette Github Page est disponible via le lien [Solution cache Tèrra Aventura](https://github.com/kBorderon/Solution-caches-Terra-Aventura "redirection : Page Github Solutions caches Tèrra Aventura"){:target="_blank"}.
 
 ## Sommaire synthétique
 
@@ -72,13 +72,13 @@ Le **Tèrra Aventura** est un jeu de géocaching, c'est-à-dire un jeu de chasse
 
 Créé en **2011** en **Limousin** (**19**, **23** & **87**), Tèrra Aventura s'est très rapidement développé dans toute la région Nouvelle-Aquitaine, offrant aujourd'hui plus de 600 chasses aux trésors partout sur ce territoire.
 
-Ces dernières se débloquent en répondant à des énigmes présentes sur l'application 100% gratuite « Tèrra Aventura », toutes les instructions pour installer l'application et commencer son aventure, sont référencées dans la rubrique [comment jouer](https://www.terra-aventura.fr/comment-jouer "redirection : Page comment jouer du jeu Tèrra Aventura").  
+Ces dernières se débloquent en répondant à des énigmes présentes sur l'application 100% gratuite « Tèrra Aventura », toutes les instructions pour installer l'application et commencer son aventure, sont référencées dans la rubrique [comment jouer](https://www.terra-aventura.fr/comment-jouer "redirection : Page comment jouer du jeu Tèrra Aventura"){:target="_blank"}.  
 
 L'objectif est simple, il s'agit de vous faire découvrir le patrimoine local, ses anecdotes, tout en s'amusant !
 
 #### Règlement Tèrra Aventura<a id="reglement" title="redirection vers la partie : Règlement Tèrra Aventura"></a>
 
-Vous trouverez via cette page les [conditions générales d'utilisation du jeu Tèrra Aventura](https://www.terra-aventura.fr/conditions-generales-dutilisation-du-jeu-terra-aventura "redirection : Page conditions générales d'utilisation du jeu Tèrra Aventura"), ainsi que la pagé dédiée pour les [mentions légales](https://www.terra-aventura.fr/mentions-legales "redirection : Page mentions légales du jeu Tèrra Aventura").
+Vous trouverez via cette page les [conditions générales d'utilisation du jeu Tèrra Aventura](https://www.terra-aventura.fr/conditions-generales-dutilisation-du-jeu-terra-aventura "redirection : Page conditions générales d'utilisation du jeu Tèrra Aventura"){:target="_blank"}, ainsi que la pagé dédiée pour les [mentions légales](https://www.terra-aventura.fr/mentions-legales "redirection : Page mentions légales du jeu Tèrra Aventura"){:target="_blank"}.
 
 Concernant la charte, pour être reconnu en tant que véritable aventurier, voici les 10 règles à respecter :
 > 1. Nature, environnement et habitants tu respecteras ;  
@@ -96,7 +96,7 @@ Concernant la charte, pour être reconnu en tant que véritable aventurier, voic
 
 C'est parti, il est l'heure de relever les indices, de résoudre les énigmes et de chercher le trésor de chacun des parcours ! Venez en aide aux **Poï'z**, petits personnages aux caractères bien trempés, à débusquer et à collectionner à la fin de chaque parcours.  
 
-Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consulter cette page dédie à eux [Les Poï'z](https://www.terra-aventura.fr/les-poiz "redirection : Page les poï'z du jeu Tèrra Aventura"). Si tu souhaites en connaître plus, sur l'histoire, etc., nous te conseillons de consulter l'[Univers Tèrra Aventura](https://www.terra-aventura.fr/lunivers "redirection : Page l'univers du jeu Tèrra Aventura").
+Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consulter cette page dédie à eux [Les Poï'z](https://www.terra-aventura.fr/les-poiz "redirection : Page les poï'z du jeu Tèrra Aventura"){:target="_blank"}. Si tu souhaites en connaître plus, sur l'histoire, etc., nous te conseillons de consulter l'[Univers Tèrra Aventura](https://www.terra-aventura.fr/lunivers "redirection : Page l'univers du jeu Tèrra Aventura"){:target="_blank"}.
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
@@ -123,16 +123,16 @@ Pour plus de détails et pour résumer Tèrra Aventura, vous trouverez des expli
 </div>
 
 Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin de vous épauler dans votre aventure :
-- qui sont les partenaires de Tèrra Aventura ?, via la page intitulée [Collab'](https://www.terra-aventura.fr/collab "redirection : Page collab du jeu Tèrra Aventura"), vous pourrez y découvrir toutes les collaborations réalisées avec Tèrra Aventura ;
-- des questions ?, n'hésitez pas à consulter la rubrique [Vos questions](https://www.terra-aventura.fr/vos-questions "redirection : Page vos questions du jeu Tèrra Aventura") ;
-- **comment identifier simplement les parcours Tèrra Aventure ?**, rien de plus simple avec la [**carte interactive**](https://www.terra-aventura.fr/parcours "redirection : Page parcours du jeu Tèrra Aventura") ;
-- besoin de jokers supplémentaires ?, n'hésitez pas à répondre à cette première [énigme](https://www.terra-aventura.fr/sites/default/files/pdf/terra-pdf-gagne-ton-joker-enigme.pdf "redirection : Page terra pdf gagne ton joker enigme du jeu Tèrra Aventura"), une seconde s'offre à toi, [la surprise de Zefaim](https://www.terra-aventura.fr/la-surprise-de-zefaim "redirection : Page la surprise de zéfaim du jeu Tèrra Aventura") et la dernière énigme [jeux des poï'z](https://www.terra-aventura.fr/jeux-des-poiz "redirection : Page jeux des poï'z du jeu Tèrra Aventura"), sinon, **vous obtiendrez un joker, toutes les 10 caches consécutives, réussies sans joker** ;
-- existe-t-il une boutique dédiée à l'univers Tèrra Aventura ?, n'hésitez à consulter [Goodies et dépliants](https://www.terra-aventura.fr/goodies-et-depliants "redirection : Page goodies et dépliants du jeu Tèrra Aventura") et [les médailles collector](https://www.terra-aventura.fr/les-medailles-collector "redirection : Page les médailles collector du jeu Tèrra Aventura") ;
+- qui sont les partenaires de Tèrra Aventura ?, via la page intitulée [Collab'](https://www.terra-aventura.fr/collab "redirection : Page collab du jeu Tèrra Aventura"){:target="_blank"}, vous pourrez y découvrir toutes les collaborations réalisées avec Tèrra Aventura ;
+- des questions ?, n'hésitez pas à consulter la rubrique [Vos questions](https://www.terra-aventura.fr/vos-questions "redirection : Page vos questions du jeu Tèrra Aventura"){:target="_blank"} ;
+- **comment identifier simplement les parcours Tèrra Aventure ?**, rien de plus simple avec la [**carte interactive**](https://www.terra-aventura.fr/parcours "redirection : Page parcours du jeu Tèrra Aventura"){:target="_blank"} ;
+- besoin de jokers supplémentaires ?, n'hésitez pas à répondre à cette première [énigme](https://www.terra-aventura.fr/sites/default/files/pdf/terra-pdf-gagne-ton-joker-enigme.pdf "redirection : Page terra pdf gagne ton joker enigme du jeu Tèrra Aventura"){:target="_blank"}, une seconde s'offre à toi, [la surprise de Zefaim](https://www.terra-aventura.fr/la-surprise-de-zefaim "redirection : Page la surprise de zéfaim du jeu Tèrra Aventura"){:target="_blank"} et la dernière énigme [jeux des poï'z](https://www.terra-aventura.fr/jeux-des-poiz "redirection : Page jeux des poï'z du jeu Tèrra Aventura"){:target="_blank"}, sinon, **vous obtiendrez un joker, toutes les 10 caches consécutives, réussies sans joker** ;
+- existe-t-il une boutique dédiée à l'univers Tèrra Aventura ?, n'hésitez à consulter [Goodies et dépliants](https://www.terra-aventura.fr/goodies-et-depliants "redirection : Page goodies et dépliants du jeu Tèrra Aventura") et [les médailles collector](https://www.terra-aventura.fr/les-medailles-collector "redirection : Page les médailles collector du jeu Tèrra Aventura"){:target="_blank"} ;
 - existe-t-il des groupes Tèrra Aventura pour l'entraide ?, oui, je te conseille ces groupes Facebook : 
-  - [Terra aventura convivialité, échange et partage](https://www.facebook.com/groups/673343879793231/) ;
-  - [Terra Aventura: Échange et Collection de Family Badges](https://www.facebook.com/groups/1539407729855696/) ;
-  - [Les Z'aventuriers de Terra Aventura](https://www.facebook.com/groups/1024930144864141/) ;
-  - [Les solos de Terra Aventura 🥾](https://www.facebook.com/groups/863267015563601/).
+  - [Terra aventura convivialité, échange et partage](https://www.facebook.com/groups/673343879793231/){:target="_blank"} ;
+  - [Terra Aventura: Échange et Collection de Family Badges](https://www.facebook.com/groups/1539407729855696/){:target="_blank"} ;
+  - [Les Z'aventuriers de Terra Aventura](https://www.facebook.com/groups/1024930144864141/){:target="_blank"} ;
+  - [Les solos de Terra Aventura 🥾](https://www.facebook.com/groups/863267015563601/){:target="_blank"}.
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/parcours" title="redirection : Page parcours du jeu Tèrra Aventura">
@@ -144,11 +144,11 @@ Dernière chose, voici quelques pages utiles, sélectionnées par nos soins afin
    <br/>
 </div>
 
-Liste de l'ensemble des partenaires participants à la création/gestion de Tèrra Aventura [référentiel des partenaires Tèrra Aventura](https://www.terra-aventura.fr/partenaires?langcode=fr "redirection : Page partenaires du jeu Tèrra Aventura").
+Liste de l'ensemble des partenaires participants à la création/gestion de Tèrra Aventura [référentiel des partenaires Tèrra Aventura](https://www.terra-aventura.fr/partenaires?langcode=fr "redirection : Page partenaires du jeu Tèrra Aventura"){:target="_blank"}.
 
 #### Et pour poursuivre davantage l'aventure ?<a id="poursuiteAventure" title="redirection vers la partie : Et pour poursuivre davantage l'aventure ?"></a>
 
-Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter régulièrement les [nouveautés](https://www.terra-aventura.fr/nouveautes "redirection : Page nouveautés du jeu Tèrra Aventura"), ainsi que les [quêtes bonus](https://www.terra-aventura.fr/les-quetes-bonus "redirection : Page les quêtes bonus du jeu Tèrra Aventura").  
+Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter régulièrement les [nouveautés](https://www.terra-aventura.fr/nouveautes "redirection : Page nouveautés du jeu Tèrra Aventura"){:target="_blank"}, ainsi que les [quêtes bonus](https://www.terra-aventura.fr/les-quetes-bonus "redirection : Page les quêtes bonus du jeu Tèrra Aventura"){:target="_blank"}.  
 
 <div>
    <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
@@ -160,9 +160,9 @@ Dans un premier temps, pour prolonger ton aventure, nous t'invitons à consulter
    <br/>
 </div>
 
-Puis, dans un second temps, pour pousser l'aventure un peu plus loin, vous pouvez poursuivre votre collecte de badges en réussissant les [Micro Z'aventures](https://www.terra-aventura.fr/micro-zaventures "redirection : Page micro-zaventures du jeu Tèrra Aventura") actuellement proposées. Pour plus d'informations, nous vous conseillons de consulter la rubrique [Actu](https://www.terra-aventura.fr/actu).
+Puis, dans un second temps, pour pousser l'aventure un peu plus loin, vous pouvez poursuivre votre collecte de badges en réussissant les [Micro Z'aventures](https://www.terra-aventura.fr/micro-zaventures "redirection : Page micro-zaventures du jeu Tèrra Aventura"){:target="_blank"} actuellement proposées. Pour plus d'informations, nous vous conseillons de consulter la rubrique [Actu](https://www.terra-aventura.fr/actu){:target="_blank"}.
 
-Tu peux également participer à des [concours](https://www.terra-aventura.fr/concours "redirection : Page concours du jeu Tèrra Aventura") ou poursuivre ta collection de badges Tèrra Aventura via des [succès virtuels](https://www.terra-aventura.fr/les-succes-virtuels "redirection : Page les succès virtuels du jeu Tèrra Aventura").
+Tu peux également participer à des [concours](https://www.terra-aventura.fr/concours "redirection : Page concours du jeu Tèrra Aventura"){:target="_blank"} ou poursuivre ta collection de badges Tèrra Aventura via des [succès virtuels](https://www.terra-aventura.fr/les-succes-virtuels "redirection : Page les succès virtuels du jeu Tèrra Aventura"){:target="_blank"}.
 
 ---
 
@@ -184,7 +184,7 @@ A travers ces 12 départements, partez à la recherche de votre nouvelle aventur
 
 **Département supplémentaire**  
 
-Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (75)** dont en témoigne ce [communiqué de presse](https://www.nouvelle-aquitaine.paris/application/uploads/files/NL/Communiqu%C3%A9%20de%20Presse%20-%20Lancement%20parcours%20T%C3%A8rra%20Aventura%20Paris%20-%20Juin%202021.pdf "redirection : Page lancement parcours Tèrra Aventura Paris Juin 2021"), réalisé à Bordeaux, le 25 Mai 2021.  
+Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (75)** dont en témoigne ce [communiqué de presse](https://www.nouvelle-aquitaine.paris/application/uploads/files/NL/Communiqu%C3%A9%20de%20Presse%20-%20Lancement%20parcours%20T%C3%A8rra%20Aventura%20Paris%20-%20Juin%202021.pdf "redirection : Page lancement parcours Tèrra Aventura Paris Juin 2021"){:target="_blank"}, réalisé à Bordeaux, le 25 Mai 2021.  
 
 À partir du 11 Juin 2021, deux nouvelles aventures aux départs respectifs des gares d’Austerlitz et Montparnasse, permettront au public parisien de pouvoir découvrir l'univers ludique en provenance de Nouvelle-Aquitaine. En effet, ces deux parcours ont pour objectif d'inviter le public parisien à venir découvrir la Nouvelle-Aquitaine (en plus de la promotion marketing réalisée à la Maison de la Nouvelle-Aquitaine (Centre d'affaires à Paris), en réalisant un premier test grandeur nature à Paris.  
 
@@ -207,7 +207,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -226,7 +227,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -245,7 +247,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -264,7 +267,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -283,7 +287,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -302,7 +307,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -321,7 +327,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -340,7 +347,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -359,7 +367,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -378,7 +387,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -397,7 +407,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -435,7 +446,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -454,7 +466,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -473,7 +486,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -492,7 +506,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -511,7 +526,8 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -529,10 +545,12 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
          </div>
       </div>
    </div>
-
-Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
-
-Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+   <p>
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
+      <br/>
+      Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+   </p>
 </details>
 <details>
    <summary>Niveaux experts</summary>
@@ -547,7 +565,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -566,7 +585,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -585,7 +605,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -604,7 +625,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -623,7 +645,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -643,7 +666,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -662,7 +686,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -681,7 +706,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -701,7 +727,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -720,7 +747,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -739,7 +767,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -758,7 +787,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -777,7 +807,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -796,7 +827,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       </div>
    </div>
    <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie [3. Questions et demandes](#questions "redirection vers la partie : Questions et demandes").
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
@@ -1861,5 +1893,5 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 >Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
 >- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
->- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter") ;
->- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord").
+>- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter"){:target="_blank"} ;
+>- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord"){:target="_blank"}.
