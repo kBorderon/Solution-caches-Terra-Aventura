@@ -418,6 +418,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <summary>Histoire et monuments</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
+         <p>-&nbsp;<a href="#surgeres" title="redirection vers la partie : Surgères, inspire-moi ! - 17 700 Surgères">Surgères, inspire-moi ! - Surgères 17 700</a>&nbsp;;</p>
          <div style="display:flex;align-items:center;justify-content:center;">
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
@@ -856,6 +857,265 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 ---
 
 ### Aides Tèrra Aventura - (17) Charente-Maritime<a id="charenteMaritime" title="redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime"></a>
+
+#### Surgères, inspire-moi ! - 17 700 Surgères<a id="surgeres" title="redirection vers la partie : Surgères, inspire-moi ! - 17 700 Surgères"></a>
+
+Fiche technique du parcours « **Surgères, inspire-moi !** ».
+
+<div style="display:flex;justify-content:center;">
+   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
+      <div style="display:flex;align-items:center;justify-content:center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-1" title="Poï'z Zabeth">
+            <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Surgères, inspire-moi !</p>
+      </div>
+      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Thématique :</span>
+                  <span style="color:white;">&nbsp;Histoire et monuments</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Poï'z :</span>
+                  <span style="font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-1" title="Poï'z Zabeth">
+                        Zabeth
+                     </a>
+                  </span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Ville :</span>
+                  <span style="color:white;">&nbsp;17 700 - Surgères</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Informations diverses :</span>
+                  <span style="color:white;font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/caches/surgeres-inspire-moi" title="redirection : Page du parcours Surgères, inspire-moi !">
+                        + détails
+                     </a>
+                  </span>
+               </div>
+            </div>
+            <div style="flex:1;border-left:1px solid white;height:80px;"></div>
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Difficulté :</span>
+                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;&#9825;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Terrain :</span>
+                  <span style="color:white;">&nbsp;&starf;&nbsp;&star;&nbsp;&star;&nbsp;&star;&nbsp;&star;</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Durée :</span>
+                  <span style="color:white;">&nbsp;1h</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Kilométrage :</span>
+                  <span style="color:white;">&nbsp;2Km</span>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<details>
+   <summary>Les indices aux énigmes</summary>
+   <div style="padding-left:20px;">
+      <div>
+         <details>
+            <summary>Énigme « A »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « B »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
+                  <p><b>Réponse</b> : <ins>1</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « C »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
+                  <p><b>Réponse</b> : <ins>8</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « D »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
+                  <p><b>Réponse</b> : <ins>14</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « E »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
+                  1. Des nasses pour la pêche<br/>
+                  2. Des barrières<br/>
+                  3.Des rames pour les bateaux.<br/>
+                  Combien de lettre composent le mot recherché ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « F »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
+                  <p><b>Réponse</b> : <ins>3</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « G »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
+                  - Louis VI le <b>Gros</b><br/>
+                  - Philippe le <b>Long</b><br/>
+                  - Charles le <b>Chauve</b><br/>
+                  Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « H »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
+                  - Un bras rouge = 34<br/>
+                  - Un monstre = 44<br/>
+                  - Un diable = 54<br/>
+                  Relevez le nombre associé à la bonne réponse.</p>
+                  <p><b>Réponse</b> : <ins>54</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « I »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
+                  <p><b>Réponse</b> : <ins>8</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+   </div>
+</details>
+<br/>
+<b>Les détails supplémentaires</b>
+<br/>
+
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+<br/>
+
+<div style="display:flex;justify-content:center;">
+   <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
+      <div style="display:flex;align-items:center;justify-content:center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
+            <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact Tèrra Aventura</p>
+      </div>
+      <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <p style="color:black;">
+               <b>Niort Marais Poitevin Tourisme</b><br/>
+               1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
+               79000 NIORT<br/>
+               <b>Téléphone </b>: 05 49 24 18 79<br/>
+               <b>Email </b>: <a target="_blank" href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
+               <b>Site web </b>: <a target="_blank" href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+
+<details>
+   <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
+   <br/>
+   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Vérification solution cache</summary>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
+   </div>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Géolocalisation de la cache</summary>
+   <br/>
+   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Mot mystère</summary>
+   <div style="padding-left:20px;">
+      <p><b>Réponse</b> : <ins>HELENE</ins></p>
+   </div>
+</details>
+
+---
 
 <div>
    <div style="display:flex;align-items:center;justify-content:center;">
@@ -1296,6 +1556,259 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 
 ---
 
+#### Papiste fait de la résistance - Prailles 79 370<a id="papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370"></a>
+
+Fiche technique du parcours « **Papiste fait de la résistance** ».
+
+<div style="display:flex;justify-content:center;">
+   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
+      <div style="display:flex;align-items:center;justify-content:center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
+            <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Papiste fait de la résistance</p>
+      </div>
+      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Thématique :</span>
+                  <span style="color:white;">&nbsp;Résistance</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Poï'z :</span>
+                  <span style="font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
+                        Zonelib'
+                     </a>
+                  </span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Ville :</span>
+                  <span style="color:white;">&nbsp;79 370 - Prailles</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Informations diverses :</span>
+                  <span style="color:white;font-weight:bold;">&nbsp;
+                     <a target="_blank" href="https://www.terra-aventura.fr/caches/papiste-fait-de-resistance" title="redirection : Page du parcours Papiste fait de la résistance">
+                        + détails
+                     </a>
+                  </span>
+               </div>
+            </div>
+            <div style="flex:1;border-left:1px solid white;height: 80px;"></div>
+            <div style="flex:2;">
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Difficulté :</span>
+                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Terrain :</span>
+                  <span style="color:white;">&nbsp;&starf;&nbsp;&starf;&nbsp;&starf;&nbsp;&starf;&nbsp;&star;</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Durée :</span>
+                  <span style="color:white;">&nbsp;2h - 3h</span>
+               </div>
+               <div style="display:flex;align-items:center;">
+                  <span style="font-weight:bold;color:orange;">Kilométrage :</span>
+                  <span style="color:white;">&nbsp;5Km</span>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<div style="display:flex;align-items:center;justify-content:center;">
+   <img style="background-color:transparent;" alt="Logo alerte" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-alerte.PNG">
+   <b>&nbsp;Avant de partir, pensez à vous munir d’un miroir de poche. Par temps humide, n’oubliez pas de chausser les bottes.</b>
+</div>
+<br/>
+
+<details>
+   <summary>Les indices aux énigmes</summary>
+   <div style="padding-left:20px;">
+      <div>
+         <details>
+            <summary>Énigme « A »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>A Pied l’Ouaille, nombre de paysans cultivaient la noix, notamment pour en faire de l’huile. L’un d’eux se trouve près de vous ! Situé le long de la route, sur la gauche, un petit bâti (sorte de porche) dispose à l’étage d’un séchoir à noix. Combien de piquets verticaux composent sa grille en bois ?</p>
+                  <p><b>Réponse</b> : <ins>25</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « B »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Trouvez le Méreau dessiné sur le poteau. Quel chiffre est inscrit au centre de celui-ci ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « C »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Comment s’appelait autrefois ce village ? Comptez combien de lettres composent ce mot commençant par « B ».</p>
+                  <p><b>Réponse</b> : <ins>8</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « D »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel était le nom de jeune fille d’Elisabeth Migault ? A combien équivaut la première lettre de ce mot, si A=1 ; B=2 ; C=3 ; etc.</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « E »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Combien de trous y’a-t-il dans la lampe sourde ?</p>
+                  <p><b>Réponse</b> : <ins>5</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « F »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Délivré par le guide tantôt, ce jeton métallique vous permet d’entrer. Ce mot finissant par le son [o] sera votre sésame pour rejoindre l’assemblée. Qui est-il ? Combien de lettres composent ce mot ?</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « G »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Quel aménagement, également désigné par le mot « bief », venez-vous de suivre pour atteindre l’assemblée du désert ? Combien de voyelles y’a-t-il dans ce mot ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « H »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>Un autre mets, servi à table, est cultivé à partir des plantes situées sur la parcelle au bord de la route. Comment appelle-t’-on l’activité agricole qui consiste à cultiver ces pieds ? Comptez combien de lettres composent ce mot commençant par « V ».</p>
+                  <p><b>Réponse</b> : <ins>11</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+      <div>
+         <details>
+            <summary>Énigme « I »</summary>
+            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
+               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+               <div style="margin-left:20px;">
+                  <p>A l’aide du « miroir de Jean Migault » – ou du vôtre – observez sous le panneau. Dans quel port se trouve le navire qu’empruntera Jean pour rejoindre la Hollande ? Combien de lettres y’a-t-il dans ce nom composé ?</p>
+                  <p><b>Réponse</b> : <ins>10</ins></p>
+               </div>
+            </div>
+         </details>
+      </div>
+   </div>
+</details>
+<br/>
+<b>Les détails supplémentaires</b>
+<br/>
+
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+<br/>
+
+<div style="display:flex;justify-content:center;">
+   <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
+      <div style="display:flex;align-items:center;justify-content:center;">
+         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
+            <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
+         </a>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact Tèrra Aventura</p>
+      </div>
+      <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
+         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+            <p style="color:black;">
+               <b>Pays Mellois</b><br/>
+               2 Place Bujault<br/>
+               79500 MELLE<br/>
+               <b>Téléphone </b>: 05 49 29 15 10<br/>
+               <b>Email </b>: <a target="_blank" href="mailto:officedetourisme@paysmellois.org" title="Mail de contact du Pays Mellois">officedetourisme@paysmellois.org</a><br/>
+               <b>Site web </b>: <a target="_blank" href="http://decouvertes.paysmellois.org" title="redirection : Site Web du Pays Mellois">http://decouvertes.paysmellois.org</a>            
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+
+<details>
+   <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
+   <br/>
+   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-prailles-papiste-fait-de-l_1221148?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=6718a691-289c-4622-9517-b066f6b61cd8&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.30062/-0.20925"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°52 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Vérification solution cache</summary>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <img width="30%" alt="Vérification de la solution pour la cache Papiste fait de la résistance" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/papiste_fait_de_la_resistance/verification_solution_cache.PNG">
+   </div>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°53 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Géolocalisation de la cache</summary>
+   <br/>
+   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-prailles-papiste-fait-de-la-r_1221159?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=f1f1798f-b65c-49ab-917a-0b4630ec75c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.29886/-0.20738"></iframe>
+   <div style="display:flex;align-items:center;justify-content:center;">
+      <ins>Légende n°54 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+   </div>
+   <br/>
+</details>
+
+<details>
+   <summary>Mot mystère</summary>
+   <div style="padding-left:20px;">
+      <p><b>Réponse</b> : <ins>HUGUENOTE</ins></p>
+   </div>
+</details>
+
+---
+
 #### Maraîchin contre Bras Rouge ! - Magné 79 460<a id="maraichinBrasRouge" title="redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460"></a>
 
 Fiche technique du parcours « **Maraîchin contre Bras Rouge !** ».
@@ -1520,7 +2033,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°52 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1531,7 +2044,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°53 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1541,7 +2054,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°54 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1550,259 +2063,6 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <summary>Mot mystère</summary>
    <div style="padding-left:20px;">
       <p><b>Réponse</b> : <ins>BOUROLLE</ins></p>
-   </div>
-</details>
-
----
-
-#### Papiste fait de la résistance - Prailles 79 370<a id="papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370"></a>
-
-Fiche technique du parcours « **Papiste fait de la résistance** ».
-
-<div style="display:flex;justify-content:center;">
-   <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
-      <div style="display:flex;align-items:center;justify-content:center;">
-         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
-            <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-         </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Papiste fait de la résistance</p>
-      </div>
-      <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
-         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
-            <div style="flex:2;">
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Thématique :</span>
-                  <span style="color:white;">&nbsp;Résistance</span>
-               </div>
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Poï'z :</span>
-                  <span style="font-weight:bold;">&nbsp;
-                     <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-77" title="Poï'z Zonelib'">
-                        Zonelib'
-                     </a>
-                  </span>
-               </div>
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Ville :</span>
-                  <span style="color:white;">&nbsp;79 370 - Prailles</span>
-               </div>
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Informations diverses :</span>
-                  <span style="color:white;font-weight:bold;">&nbsp;
-                     <a target="_blank" href="https://www.terra-aventura.fr/caches/papiste-fait-de-resistance" title="redirection : Page du parcours Papiste fait de la résistance">
-                        + détails
-                     </a>
-                  </span>
-               </div>
-            </div>
-            <div style="flex:1;border-left:1px solid white;height: 80px;"></div>
-            <div style="flex:2;">
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Difficulté :</span>
-                  <span style="color:white;">&nbsp;&hearts;&nbsp;&hearts;&nbsp;&hearts;&nbsp;&#9825;&nbsp;&#9825;&nbsp;<b>à pieds</b></span>
-               </div>
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Terrain :</span>
-                  <span style="color:white;">&nbsp;&starf;&nbsp;&starf;&nbsp;&starf;&nbsp;&starf;&nbsp;&star;</span>
-               </div>
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Durée :</span>
-                  <span style="color:white;">&nbsp;2h - 3h</span>
-               </div>
-               <div style="display:flex;align-items:center;">
-                  <span style="font-weight:bold;color:orange;">Kilométrage :</span>
-                  <span style="color:white;">&nbsp;5Km</span>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-
-<div style="display:flex;align-items:center;justify-content:center;">
-   <img style="background-color:transparent;" alt="Logo alerte" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/logo-alerte.PNG">
-   <b>&nbsp;Avant de partir, pensez à vous munir d’un miroir de poche. Par temps humide, n’oubliez pas de chausser les bottes.</b>
-</div>
-<br/>
-
-<details>
-   <summary>Les indices aux énigmes</summary>
-   <div style="padding-left:20px;">
-      <div>
-         <details>
-            <summary>Énigme « A »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>A Pied l’Ouaille, nombre de paysans cultivaient la noix, notamment pour en faire de l’huile. L’un d’eux se trouve près de vous ! Situé le long de la route, sur la gauche, un petit bâti (sorte de porche) dispose à l’étage d’un séchoir à noix. Combien de piquets verticaux composent sa grille en bois ?</p>
-                  <p><b>Réponse</b> : <ins>25</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « B »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Trouvez le Méreau dessiné sur le poteau. Quel chiffre est inscrit au centre de celui-ci ?</p>
-                  <p><b>Réponse</b> : <ins>6</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « C »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Comment s’appelait autrefois ce village ? Comptez combien de lettres composent ce mot commençant par « B ».</p>
-                  <p><b>Réponse</b> : <ins>8</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « D »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Quel était le nom de jeune fille d’Elisabeth Migault ? A combien équivaut la première lettre de ce mot, si A=1 ; B=2 ; C=3 ; etc.</p>
-                  <p><b>Réponse</b> : <ins>6</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « E »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Combien de trous y’a-t-il dans la lampe sourde ?</p>
-                  <p><b>Réponse</b> : <ins>5</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « F »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Délivré par le guide tantôt, ce jeton métallique vous permet d’entrer. Ce mot finissant par le son [o] sera votre sésame pour rejoindre l’assemblée. Qui est-il ? Combien de lettres composent ce mot ?</p>
-                  <p><b>Réponse</b> : <ins>6</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « G »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Quel aménagement, également désigné par le mot « bief », venez-vous de suivre pour atteindre l’assemblée du désert ? Combien de voyelles y’a-t-il dans ce mot ?</p>
-                  <p><b>Réponse</b> : <ins>2</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « H »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Un autre mets, servi à table, est cultivé à partir des plantes situées sur la parcelle au bord de la route. Comment appelle-t’-on l’activité agricole qui consiste à cultiver ces pieds ? Comptez combien de lettres composent ce mot commençant par « V ».</p>
-                  <p><b>Réponse</b> : <ins>11</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « I »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
-               <div style="margin-left:20px;">
-                  <p>A l’aide du « miroir de Jean Migault » – ou du vôtre – observez sous le panneau. Dans quel port se trouve le navire qu’empruntera Jean pour rejoindre la Hollande ? Combien de lettres y’a-t-il dans ce nom composé ?</p>
-                  <p><b>Réponse</b> : <ins>10</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-   </div>
-</details>
-<br/>
-<b>Les détails supplémentaires</b>
-<br/>
-
-En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
-<br/>
-
-<div style="display:flex;justify-content:center;">
-   <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin-bottom:20px;width:450px;">
-      <div style="display:flex;align-items:center;justify-content:center;">
-         <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-64" title="Poï'z Zécolo">
-            <img style="background-color:transparent;" alt="Poï'z Zécolo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zecolo_badge.png">
-         </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:black;">Contact Tèrra Aventura</p>
-      </div>
-      <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
-         <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
-            <p style="color:black;">
-               <b>Pays Mellois</b><br/>
-               2 Place Bujault<br/>
-               79500 MELLE<br/>
-               <b>Téléphone </b>: 05 49 29 15 10<br/>
-               <b>Email </b>: <a target="_blank" href="mailto:officedetourisme@paysmellois.org" title="Mail de contact du Pays Mellois">officedetourisme@paysmellois.org</a><br/>
-               <b>Site web </b>: <a target="_blank" href="http://decouvertes.paysmellois.org" title="redirection : Site Web du Pays Mellois">http://decouvertes.paysmellois.org</a>            
-            </p>
-         </div>
-      </div>
-   </div>
-</div>
-
-<details>
-   <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
-   <br/>
-   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-prailles-papiste-fait-de-l_1221148?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=6718a691-289c-4622-9517-b066f6b61cd8&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.30062/-0.20925"></iframe>
-   <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
-   </div>
-   <br/>
-</details>
-
-<details>
-   <summary>Vérification solution cache</summary>
-   <div style="display:flex;align-items:center;justify-content:center;">
-      <img width="30%" alt="Vérification de la solution pour la cache Papiste fait de la résistance" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/papiste_fait_de_la_resistance/verification_solution_cache.PNG">
-   </div>
-   <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
-   </div>
-   <br/>
-</details>
-
-<details>
-   <summary>Géolocalisation de la cache</summary>
-   <br/>
-   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-prailles-papiste-fait-de-la-r_1221159?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=f1f1798f-b65c-49ab-917a-0b4630ec75c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.29886/-0.20738"></iframe>
-   <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
-   </div>
-   <br/>
-</details>
-
-<details>
-   <summary>Mot mystère</summary>
-   <div style="padding-left:20px;">
-      <p><b>Réponse</b> : <ins>HUGUENOTE</ins></p>
    </div>
 </details>
 
@@ -1871,6 +2131,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    - [Aides Tèrra Aventura - Tèrra Aventura par thématique](#thematique "redirection vers la partie : Tèrra Aventura par thématique")
    - [Aides Tèrra Aventura - (16) Charente](#charente "redirection vers la partie : Aides Tèrra Aventura - (16) Charente")
    - [Aides Tèrra Aventura - (17) Charente-Maritime](#charenteMaritime "redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime")
+     - [Surgères, inspire-moi ! - Surgères 17 700](#surgeres "redirection vers la partie : Surgères, inspire-moi !")
    - [Aides Tèrra Aventura - (19) Corrèze](#correze "redirection vers la partie : Aides Tèrra Aventura - (19) Corrèze")
    - [Aides Tèrra Aventura - (23) Creuse](#creuse "redirection vers la partie : Aides Tèrra Aventura - (23) Creuse")
    - [Aides Tèrra Aventura - (24) Dordogne](#dordogne "redirection vers la partie : Aides Tèrra Aventura - (24) Dordogne")
@@ -1881,8 +2142,8 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    - [Aides Tèrra Aventura - (75) Paris](#paris "redirection vers la partie : Aides Tèrra Aventura - (75) Paris")
    - [Aides Tèrra Aventura - (79) Deux-Sèvres](#deuxSevres "redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres")
      - [Petites Chamoiseries entre Poï'Z - Niort 79 000](#petitesChamoiseries "redirection vers la partie : Petites Chamoiseries entre Poï'Z")
-     - [Maraîchin contre Bras Rouge ! - Magné 79 460](#maraichinBrasRouge "redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460")
      - [Papiste fait de la résistance - Prailles 79 370](#papisteResistance "redirection vers la partie : Papiste fait de la résistance - Prailles 79 370")
+     - [Maraîchin contre Bras Rouge ! - Magné 79 460](#maraichinBrasRouge "redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460")
    - [Aides Tèrra Aventura - (86) Vienne](#vienne "redirection vers la partie : Aides Tèrra Aventura - (86) Vienne")
    - [Aides Tèrra Aventura - (87) Haute-Vienne](#hauteVienne "redirection vers la partie : Aides Tèrra Aventura - (87) Haute-Vienne")
 3. [Questions et demandes](#questions "redirection vers la partie : Questions et demandes")
