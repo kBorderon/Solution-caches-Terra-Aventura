@@ -17,6 +17,7 @@ Par souci de longueur, le sommaire a été synthétisé, pour obtenir le sommair
     - [Et pour poursuivre davantage l'aventure ?](#poursuiteAventure "redirection vers la partie : Présentation")
 2. [Aides caches Tèrra Aventura](#aides "redirection vers la partie : Aides caches Tèrra Aventura")
    - [Aides Tèrra Aventura - Tèrra Aventura par thématique](#thematique "redirection vers la partie : Tèrra Aventura par thématique")
+   - [Aides Tèrra Aventura - Tèrra Aventura par Poï'z](#poiz "redirection vers la partie : Tèrra Aventura par Poï'z")
    - [Aides Tèrra Aventura - (16) Charente](#charente "redirection vers la partie : Aides Tèrra Aventura - (16) Charente")
    - [Aides Tèrra Aventura - (17) Charente-Maritime](#charenteMaritime "redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime")
    - [Aides Tèrra Aventura - (19) Corrèze](#correze "redirection vers la partie : Aides Tèrra Aventura - (19) Corrèze")
@@ -182,6 +183,13 @@ Fort de son succès depuis 2011 dans le Limousin, Tèrra Aventura s'est propagé
 
 A travers ces 12 départements, partez à la recherche de votre nouvelle aventure Tèrra Aventura !
 
+<iframe width="100%" height="800px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/referencement-des-terra-aventura-integrees-au-proj_1226060?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=c88c97aa-9645-4311-bdf3-1de94fd791c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#10/46.4638/-0.5342"></iframe>
+
+<div style="display:flex;align-items:center;justify-content:center;">
+   <ins>Légende n°7 - Carte des Tèrra Aventura intégrés au projet Github - Solutions cache Tèrra Aventura</ins>
+   <br/>
+</div>
+
 **Département supplémentaire**  
 
 Fort de son succès, Tèrra Aventura débarque dans le département de **Paris (75)** dont en témoigne ce [communiqué de presse](https://www.nouvelle-aquitaine.paris/application/uploads/files/NL/Communiqu%C3%A9%20de%20Presse%20-%20Lancement%20parcours%20T%C3%A8rra%20Aventura%20Paris%20-%20Juin%202021.pdf "redirection : Page lancement parcours Tèrra Aventura Paris Juin 2021"){:target="_blank"}, réalisé à Bordeaux, le 25 Mai 2021.  
@@ -202,7 +210,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°7 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°8 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -222,7 +230,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°8 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°9 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -242,7 +250,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°9 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°10 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -262,7 +270,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°10 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°11 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -282,7 +290,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°11 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°12 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -302,7 +310,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°12 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°13 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -322,7 +330,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°13 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°14 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -342,7 +350,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°14 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°15 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -362,7 +370,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°15 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°16 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -382,7 +390,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°16 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°17 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -402,7 +410,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°17 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°18 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -423,7 +431,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°18 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°19 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -436,26 +444,6 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 </details>
 <details>
    <summary>Insulaire</summary>
-   <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
-      <div style="margin-left:20px;">
-         <div style="display:flex;align-items:center;justify-content:center;">
-		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
-         </div>
-         <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°19 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
-         </div>
-      </div>
-   </div>
-   <p>
-      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
-      <br/>
-      <br/>
-      Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
-   </p>
-   <br/>
-</details>
-<details>
-   <summary>Inventions et innovations</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -475,7 +463,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <br/>
 </details>
 <details>
-   <summary>Légendaire</summary>
+   <summary>Inventions et innovations</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -495,7 +483,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <br/>
 </details>
 <details>
-   <summary>Littérature</summary>
+   <summary>Légendaire</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -515,7 +503,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <br/>
 </details>
 <details>
-   <summary>Médieval</summary>
+   <summary>Littérature</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -535,7 +523,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <br/>
 </details>
 <details>
-   <summary>Nature</summary>
+   <summary>Médieval</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -552,9 +540,10 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
+   <br/>
 </details>
 <details>
-   <summary>Niveaux experts</summary>
+   <summary>Nature</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -571,10 +560,9 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       <br/>
       Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
    </p>
-   <br/>
 </details>
 <details>
-   <summary>Nocturne</summary>
+   <summary>Niveaux experts</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -594,7 +582,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <br/>
 </details>
 <details>
-   <summary>Pastoralisme</summary>
+   <summary>Nocturne</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
          <div style="display:flex;align-items:center;justify-content:center;">
@@ -614,6 +602,26 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <br/>
 </details>
 <details>
+   <summary>Pastoralisme</summary>
+   <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
+      <div style="margin-left:20px;">
+         <div style="display:flex;align-items:center;justify-content:center;">
+		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
+         </div>
+         <div style="display:flex;align-items:center;justify-content:center;">
+		    <ins>Légende n°28 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+         </div>
+      </div>
+   </div>
+   <p>
+      Tèrra Aventura non réalisés pour le moment pour cette thématique, si vous souhaitez participer pour intégrer votre solution, n'hésitez pas à me contacter sur mon mail disponible dans la partie <a href="#questions" title="redirection vers la partie : Questions et demandes">3. Questions et demandes</a>.
+      <br/>
+      <br/>
+      Merci d'avance pour votre compréhension et participation à ce projet communautaire 😁!
+   </p>
+   <br/>
+</details>
+<details>
    <summary>Patrimoine maritime</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
@@ -621,7 +629,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°28 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°29 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -641,7 +649,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°29 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°230 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -662,7 +670,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°30 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°31 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -682,7 +690,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°31 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°32 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -702,7 +710,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°32 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°33 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -718,12 +726,12 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
    <summary>Savoir-faire</summary>
    <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;">
       <div style="margin-left:20px;">
-         <p>-&nbsp;<a href="#petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'Z">Petites Chamoiseries entre Poï'Z - Niort 79 000</a>&nbsp;;</p>
+         <p>-&nbsp;<a href="#petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'z">Petites Chamoiseries entre Poï'z - Niort 79 000</a>&nbsp;;</p>
          <div style="display:flex;align-items:center;justify-content:center;">
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°33 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°34 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -743,7 +751,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°34 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°35 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -763,7 +771,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°35 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°36 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -783,7 +791,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°36 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°37 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -803,7 +811,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°37 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°38 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -823,7 +831,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 		    <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
          </div>
          <div style="display:flex;align-items:center;justify-content:center;">
-		    <ins>Légende n°38 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+		    <ins>Légende n°39 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
          </div>
       </div>
    </div>
@@ -838,6 +846,69 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 
 ---
 
+### Aides Tèrra Aventura - Tèrra Aventura par Poï'z<a id="poiz" title="redirection vers la partie : Tèrra Aventura par Poï'z"></a>
+
+Vous trouverez ci-dessous la liste exhaustive des différents parcours Tèrra Aventura existants classés par Poï'z :
+
+<details style="align-items:center;">
+   <summary style="list-style: none !important;">
+      <div style="display:flex;align-items:center;">
+         <p style="margin:0px 20px 5px 0px;">&#129181;</p>
+         <img width="8%" style="background-color:transparent;vertical-align: middle;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
+         <p style="margin:5px 0px 5px 20px;">Poï'z Zabeth</p>
+    </div>
+   </summary>
+   <div style="margin-left:20px;padding:20px;">
+      <div>
+         <p>-&nbsp;<a href="#surgeres" title="redirection vers la partie : Surgères, inspire-moi ! - Surgères 17 700">Surgères, inspire-moi ! - Surgères 17 700</a>&nbsp;;</p>
+      </div>
+   </div>
+</details>
+<details style="align-items:center;">
+   <summary style="list-style: none !important;">
+      <div style="display:flex;align-items:center;">
+         <p style="margin:0px 20px 5px 0px;">&#129181;</p>
+         <img width="8%" style="background-color:transparent;vertical-align: middle;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+         <p style="margin:5px 0px 5px 20px;">Poï'z Zisséo</p>
+      </div>
+   </summary>
+   <div style="margin-left:20px;padding:20px;">
+      <div>
+         <p>-&nbsp;<a href="#maraichinBrasRouge" title="redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460">Maraîchin contre Bras Rouge ! - Magné 79 460</a>&nbsp;;</p>
+      </div>
+   </div>
+</details>
+<details style="align-items:center;">
+   <summary style="list-style: none !important;">
+      <div style="display:flex;align-items:center;">
+         <p style="margin:0px 20px 5px 0px;">&#129181;</p>
+         <img width="8%" style="background-color:transparent;vertical-align: middle;" alt="Poï'z Zonelib'" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zonelib_badge.png">
+         <p style="margin:5px 0px 5px 20px;">Poï'z Zonelib'</p>
+      </div>
+   </summary>
+   <div style="margin-left:20px;padding:20px;">
+      <div>
+         <p>-&nbsp;<a href="#papisteResistance" title="redirection vers la partie : Papiste fait de la résistance - Prailles 79 370">Papiste fait de la résistance - Prailles 79 370</a>&nbsp;;</p>
+      </div>
+   </div>
+</details>
+ <details style="align-items:center;">
+   <summary style="list-style: none !important;">
+      <div style="display:flex;align-items:center;">
+         <p style="margin:0px 20px 5px 0px;">&#129181;</p>
+         <img width="8%" style="background-color:transparent;vertical-align: middle;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
+         <p style="margin:5px 0px 5px 20px;">Poï'z Zouti</p>
+    </div>
+   </summary>
+   <div style="margin-left:20px;padding:20px;">
+      <div>
+         <p>-&nbsp;<a href="#petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'z - Niort 79 000">Petites Chamoiseries entre Poï'z - Niort 79 000</a>&nbsp;;</p>
+      </div>
+   </div>
+</details>
+
+---
+
 ### Aides Tèrra Aventura - (16) Charente<a id="charente" title="redirection vers la partie : Aides Tèrra Aventura - (16) Charente"></a>
 
 <div>
@@ -845,7 +916,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°39 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°40 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1063,7 +1134,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-surgeres-surgeres-inspire-_1226041?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=a871028f-5553-489b-aa6e-2800fd484808&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#19/46.10543/-0.75142"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°40 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°41 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1074,7 +1145,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Surgères, inspire-moi !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/surgeres_inspire-moi/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°41 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Surgères - Surgères, inspire-moi !</ins>
+      <ins>Légende n°42 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Surgères - Surgères, inspire-moi !</ins>
    </div>
    <br/>
 </details>
@@ -1084,7 +1155,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-surgeres-surgeres-inspire-moi_1226048?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=1d0e99ee-def3-4e16-b47a-f28b429eb85c&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#19/46.10478/-0.74998"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°42 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°43 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1103,7 +1174,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°43 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°44 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1121,7 +1192,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°44 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°45 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1139,7 +1210,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°45 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°46 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1157,7 +1228,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°46 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°47 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1175,7 +1246,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°47 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°48 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1193,7 +1264,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°48 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°49 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1211,7 +1282,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°49 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°50 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1229,7 +1300,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°50 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°51 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1247,7 +1318,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°51 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°52 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1260,9 +1331,9 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 ### Aides Tèrra Aventura - (79) Deux-Sèvres<a id="deuxSevres" title="redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres"></a>
 
-#### Petites Chamoiseries entre Poï'Z - Niort 79 000<a id="petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'Z - Niort 79 000"></a>
+#### Petites Chamoiseries entre Poï'z - Niort 79 000<a id="petitesChamoiseries" title="redirection vers la partie : Petites Chamoiseries entre Poï'z - Niort 79 000"></a>
 
-Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
+Fiche technique du parcours « **Petites Chamoiseries entre Poï'z** ».
 
 <div style="display:flex;justify-content:center;">
    <div style="background-color:#4b2011;border:dashed grey thin;border-radius:10px;padding:10px;margin-bottom:20px;width:800px;">
@@ -1270,7 +1341,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
          <a target="_blank" href="https://www.terra-aventura.fr/les-poiz#thematic-3" title="Poï'z Zouti">
             <img style="background-color:transparent;" alt="Poï'z Zouti" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zouti_badge.png">
          </a>
-         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Petites Chamoiseries entre Poï'Z</p>
+         <p style="margin-left:20px;font:bold italic 20px Rancho, Helvetica, Arial, sans-serif;color:orange;">Petites Chamoiseries entre Poï'z</p>
       </div>
       <div style="background-color:#4b2011;border:dashed white thin;border-radius:10px;padding:10px;margin:10px;">
          <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
@@ -1294,7 +1365,7 @@ Fiche technique du parcours « **Petites Chamoiseries entre Poï'Z** ».
                <div style="display:flex;align-items:center;">
                   <span style="font-weight:bold;color:orange;">Informations diverses :</span>
                   <span style="color:white;font-weight:bold;">&nbsp;
-                     <a target="_blank" href="https://www.terra-aventura.fr/caches/petites-chamoiseries-entre-poiz" title="redirection : Page du parcours Petites Chamoiseries entre Poï'Z">
+                     <a target="_blank" href="https://www.terra-aventura.fr/caches/petites-chamoiseries-entre-poiz" title="redirection : Page du parcours Petites Chamoiseries entre Poï'z">
                         + détails
                      </a>
                   </span>
@@ -1502,7 +1573,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°52 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°53 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
    <br/>
 </details>
@@ -1510,10 +1581,10 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Vérification solution cache</summary>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img width="30%" alt="Vérification de la solution pour la cache Petites Chamoiseries entre Poï'Z" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
+      <img width="30%" alt="Vérification de la solution pour la cache Petites Chamoiseries entre Poï'z" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°53 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°54 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
    <br/>
 </details>
@@ -1523,7 +1594,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°54 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°55 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
    <br/>
 </details>
@@ -1755,7 +1826,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-prailles-papiste-fait-de-l_1221148?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=6718a691-289c-4622-9517-b066f6b61cd8&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.30062/-0.20925"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+      <ins>Légende n°56 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -1766,7 +1837,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Papiste fait de la résistance" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/papiste_fait_de_la_resistance/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+      <ins>Légende n°57 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -1776,7 +1847,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-prailles-papiste-fait-de-la-r_1221159?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=f1f1798f-b65c-49ab-917a-0b4630ec75c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.29886/-0.20738"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+      <ins>Légende n°58 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -2014,7 +2085,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°58 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°59 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -2025,7 +2096,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°59 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°60 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -2035,7 +2106,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°60 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°61 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -2054,7 +2125,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°61 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°62 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -2072,7 +2143,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°62 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°63 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -2090,7 +2161,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°63 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°64 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -2110,6 +2181,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    - [Et pour poursuivre davantage l'aventure ?](#poursuiteAventure "redirection vers la partie : Présentation")
 2. [Aides caches Tèrra Aventura](#aides "redirection vers la partie : Aides caches Tèrra Aventura")
    - [Aides Tèrra Aventura - Tèrra Aventura par thématique](#thematique "redirection vers la partie : Tèrra Aventura par thématique")
+   - [Aides Tèrra Aventura - Tèrra Aventura par Poï'z](#poiz "redirection vers la partie : Tèrra Aventura par Poï'z")
    - [Aides Tèrra Aventura - (16) Charente](#charente "redirection vers la partie : Aides Tèrra Aventura - (16) Charente")
    - [Aides Tèrra Aventura - (17) Charente-Maritime](#charenteMaritime "redirection vers la partie : Aides Tèrra Aventura - (17) Charente-Maritime")
      - [Surgères, inspire-moi ! - Surgères 17 700](#surgeres "redirection vers la partie : Surgères, inspire-moi !")
@@ -2122,7 +2194,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
    - [Aides Tèrra Aventura - (64) Pyrénées-Atlantiques](#pyreneesAtlantiques "redirection vers la partie : Aides Tèrra Aventura - (64) Pyrénées-Atlantiques")
    - [Aides Tèrra Aventura - (75) Paris](#paris "redirection vers la partie : Aides Tèrra Aventura - (75) Paris")
    - [Aides Tèrra Aventura - (79) Deux-Sèvres](#deuxSevres "redirection vers la partie : Aides Tèrra Aventura - (79) Deux-Sèvres")
-     - [Petites Chamoiseries entre Poï'Z - Niort 79 000](#petitesChamoiseries "redirection vers la partie : Petites Chamoiseries entre Poï'Z")
+     - [Petites Chamoiseries entre Poï'z - Niort 79 000](#petitesChamoiseries "redirection vers la partie : Petites Chamoiseries entre Poï'z")
      - [Papiste fait de la résistance - Prailles 79 370](#papisteResistance "redirection vers la partie : Papiste fait de la résistance - Prailles 79 370")
      - [Maraîchin contre Bras Rouge ! - Magné 79 460](#maraichinBrasRouge "redirection vers la partie : Maraîchin contre Bras Rouge ! - Magné 79 460")
    - [Aides Tèrra Aventura - (86) Vienne](#vienne "redirection vers la partie : Aides Tèrra Aventura - (86) Vienne")
