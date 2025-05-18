@@ -185,9 +185,8 @@ A travers ces 12 départements, partez à la recherche de votre nouvelle aventur
 
 <iframe width="100%" height="800px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/referencement-des-terra-aventura-integrees-au-proj_1226060?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=c88c97aa-9645-4311-bdf3-1de94fd791c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#10/46.4638/-0.5342"></iframe>
 
-<div style="display:flex;align-items:center;justify-content:center;">
+<div style="display:flex;align-items:center;justify-content:center;margin-bottom:25px;">
    <ins>Légende n°7 - Carte des Tèrra Aventura intégrés au projet Github - Solutions cache Tèrra Aventura</ins>
-   <br/>
 </div>
 
 **Département supplémentaire**  
@@ -848,7 +847,7 @@ Vous trouverez ci-dessous la liste exhaustive des thématiques des différents p
 
 ### Aides Tèrra Aventura - Tèrra Aventura par Poï'z<a id="poiz" title="redirection vers la partie : Tèrra Aventura par Poï'z"></a>
 
-Vous trouverez ci-dessous la liste exhaustive des différents parcours Tèrra Aventura existants classés par Poï'z :
+Vous trouverez ci-dessous la liste exhaustive des différents parcours Tèrra Aventura intégrés au projet Github Solutions caches Tèrra Aventura, classés par Poï'z :
 
 <details style="align-items:center;">
    <summary style="list-style: none !important;">
