@@ -929,10 +929,10 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « A »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Le sentier « de port en port » est indiqué par des balises métalliques fixées au sol. Sur ces balises, mon bateau est représenté ! Dans le marais, on l’appelle « une plate ». Combien de plates y-a-t-il sur la balise ?</p>
-                  <p><b>Réponse</b> : <ins>2</ins></p>
+                  <p>Dans mon jardin poussent des simples, si faciles, si faciles, que le sot qui les cueille en devient savant. Combien d’arcades composent le porche roman ?</p>
+                  <p><b>Réponse</b> : <ins>3</ins></p>
                </div>
             </div>
          </details>
@@ -941,10 +941,10 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « B »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Quel numéro porte le « bourgnon » ? Cette nasse étroite permet de capturer l’anguille, qui est attirée à l’intérieur par des vers de terre...</p>
-                  <p><b>Réponse</b> : <ins>1</ins></p>
+                  <p>Observez le premier niveau. En partant de la gauche, sur quelle métope est représentée la femme à queue de poisson ? Elle pourrait être une représentation de Mélusine, la célèbre fée poitevine.</p>
+                  <p><b>Réponse</b> : <ins>12</ins></p>
                </div>
             </div>
          </details>
@@ -953,10 +953,10 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « C »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Sur l’œuvre, combien de Frênes têtards sont plantés sur la berge derrière le Bras Rouge ?</p>
-                  <p><b>Réponse</b> : <ins>8</ins></p>
+                  <p>Combien de mascarons représentant des femmes sont sculptés au-dessus des fenêtres du premier étage ?</p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
                </div>
             </div>
          </details>
@@ -965,10 +965,10 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « D »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Combien de tuiles couronnent la cheminée du four à pain ?</p>
-                  <p><b>Réponse</b> : <ins>14</ins></p>
+                  <p>Dans mon jardin gonflent des fruits, si tactiles, si tactiles que le pauvre qui les goûte assouvit sa faim. De quelle ville vient l’entreprise qui a construit les halles ? Comptez le nombre de lettres qui composent ce nom.</p>
+                  <p><b>Réponse</b> : <ins>6</ins></p>
                </div>
             </div>
          </details>
@@ -977,14 +977,10 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « E »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>En plus de ces deux z’usages, que fabriquait le maraîchin avec le bois des Frênes têtards ? Aidez-vous du jeu pour trouver la réponse !<br/>
-                  1. Des nasses pour la pêche<br/>
-                  2. Des barrières<br/>
-                  3.Des rames pour les bateaux.<br/>
-                  Combien de lettre composent le mot recherché ?</p>
-                  <p><b>Réponse</b> : <ins>2</ins></p>
+                  <p>Combien de personnages avec les bras croisés décorent les lucarnes de la toiture ?</p>
+                  <p><b>Réponse</b> : <ins>4</ins></p>
                </div>
             </div>
          </details>
@@ -993,10 +989,15 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « F »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Accolée au clocher, une tourelle d’escalier arrondie... Combien possède-t-elle de petites fenêtres verticales ?</p>
-                  <p><b>Réponse</b> : <ins>3</ins></p>
+                  <p>Dans mon jardin chante une source, si docile, si docile, que le soldat qui s'abandonne retrouve la paix. Observez autour de vous. De quoi René-André, Henri, Maurice, Yvon et Henri ont-ils été les victimes ?<br/>
+                  1 - De la guerre<br/>
+                  2 - De la Résistance<br/>
+                  3 - De la barbarie<br/>
+                  Relevez le numéro de la bonne réponse.
+                  </p>
+                  <p><b>Réponse</b> : <ins>2</ins></p>
                </div>
             </div>
          </details>
@@ -1005,13 +1006,9 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « G »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Comment se nommait le roi qui a ordonné la fortification de Magné ?<br/>
-                  - Louis VI le <b>Gros</b><br/>
-                  - Philippe le <b>Long</b><br/>
-                  - Charles le <b>Chauve</b><br/>
-                  Combien de lettres y-a-t-il dans le bon adjectif (le mot en gras) ?</p>
+                  <p>En quelle année Charles de Fonsèque a-t-il fait rebâtir les murailles ? Relevez uniquement le chiffre des unités.</p>
                   <p><b>Réponse</b> : <ins>6</ins></p>
                </div>
             </div>
@@ -1021,25 +1018,9 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
          <details>
             <summary>Énigme « H »</summary>
             <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
+               <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                <div style="margin-left:20px;">
-                  <p>Chez-lui, le maraîchin avait toujours un pot doté d’un bras, dans lequel cuisaient pommes de terre et châtaignes... Quel est le nom de cette curieuse poterie (également exposée dans la vitrine) ?<br/>
-                  - Un bras rouge = 34<br/>
-                  - Un monstre = 44<br/>
-                  - Un diable = 54<br/>
-                  Relevez le nombre associé à la bonne réponse.</p>
-                  <p><b>Réponse</b> : <ins>54</ins></p>
-               </div>
-            </div>
-         </details>
-      </div>
-      <div>
-         <details>
-            <summary>Énigme « I »</summary>
-            <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-               <img style="background-color:transparent;" alt="Poï'z Zisséo" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zisseo_badge.png">
-               <div style="margin-left:20px;">
-                  <p>Sur les 22 ports que compte le village, combien se trouvaient sur votre parcours ?</p>
+                  <p>Dans mon jardin glissent des fleurs, si subtiles, si subtiles, que le passant qui les respire arrête son pas. Combien de fleurs ornent la frise de la porte Renaissance, au-dessus des colonnes ? Travaux en cours : H = 8</p>
                   <p><b>Réponse</b> : <ins>8</ins></p>
                </div>
             </div>
@@ -1065,12 +1046,12 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <div style="background-color:#d3d5d9;border:dashed black thin;border-radius:10px;padding:10px;margin:10px;">
          <div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
             <p style="color:black;">
-               <b>Niort Marais Poitevin Tourisme</b><br/>
-               1 Rue de la Chamoiserie - Le Séchoir - Port Boinot<br/>
-               79000 NIORT<br/>
-               <b>Téléphone </b>: 05 49 24 18 79<br/>
-               <b>Email </b>: <a target="_blank" href="mailto:terra-aventura@niortmaraispoitevin.com" title="Mail de contact du Niort Marais Poitevin Tourisme">terra-aventura@niortmaraispoitevin.com</a><br/>
-               <b>Site web </b>: <a target="_blank" href="http://www.niortmaraispoitevin.com" title="redirection : Site Web du Niort Marais Poitevin Tourisme">http://www.niortmaraispoitevin.com</a>            
+               <b>Office de Tourisme du Pays d'Aunis</b><br/>
+               3 rue du 26 septembre 1944<br/>
+               17540 SAINT SAUVEUR D'AUNIS<br/>
+               <b>Téléphone </b>: 05 46 01 12 10<br/>
+               <b>Email </b>: <a target="_blank" href="mailto:contact@aunis-maraispoitevin.com" title="Mail de contact de l'Office de Tourisme du Pays d'Aunis">contact@aunis-maraispoitevin.com</a><br/>
+               <b>Site web </b>: <a target="_blank" href="https://www.aunis-maraispoitevin.com/" title="redirection : Site Web de l'Office de Tourisme du Pays d'Aunis">https://www.aunis-maraispoitevin.com</a>            
             </p>
          </div>
       </div>
@@ -1080,9 +1061,9 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
    <br/>
-   <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-surgeres-surgeres-inspire-_1226041?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=a871028f-5553-489b-aa6e-2800fd484808&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#19/46.10543/-0.75142"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°40 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1090,10 +1071,10 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Vérification solution cache</summary>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
+      <img width="30%" alt="Vérification de la solution pour la cache Surgères, inspire-moi !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/surgeres_inspire-moi/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°41 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Surgères - Surgères, inspire-moi !</ins>
    </div>
    <br/>
 </details>
@@ -1101,9 +1082,9 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
    <summary>Géolocalisation de la cache</summary>
    <br/>
-   <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
+   <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-surgeres-surgeres-inspire-moi_1226048?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=1d0e99ee-def3-4e16-b47a-f28b429eb85c&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#19/46.10478/-0.74998"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°42 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -1122,7 +1103,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°40 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°43 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1140,7 +1121,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°41 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°44 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1158,7 +1139,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°42 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°45 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1176,7 +1157,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°43 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°46 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1194,7 +1175,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°44 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°47 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1212,7 +1193,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°45 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°48 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1230,7 +1211,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°46 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°49 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1248,7 +1229,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°47 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°50 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1266,7 +1247,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°48 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°51 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -1521,7 +1502,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-niort-petites-chamoiseries_1220175?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=2dbd16ef-9a4c-43fd-ba38-8ad87fb1a74a&locateControl=true&measureControl=false&editinosmControl=false&homeControl=false#16/46.3266/-0.4674"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°49 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°52 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
    <br/>
 </details>
@@ -1532,7 +1513,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Petites Chamoiseries entre Poï'Z" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/petites_chamoiseries_entre_poiz/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°50 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°53 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
    <br/>
 </details>
@@ -1542,7 +1523,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-niort-petites-chamoiseries-en_1220224?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&homeControl=false&measureControl=false&editinosmControl=false&locateControl=true&datalayers=38a1dc6f-e774-4cd8-a16a-9d37045e21e8#18/46.32455/-0.46859"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°51 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
+      <ins>Légende n°54 - Carte pour identifier la cache géocaching du Tèrra Aventura Niort - Petites Chamoiseries entre Poï'z</ins>
    </div>
    <br/>
 </details>
@@ -1774,7 +1755,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-prailles-papiste-fait-de-l_1221148?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=6718a691-289c-4622-9517-b066f6b61cd8&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.30062/-0.20925"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°52 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -1785,7 +1766,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Papiste fait de la résistance" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/papiste_fait_de_la_resistance/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°53 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -1795,7 +1776,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-prailles-papiste-fait-de-la-r_1221159?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=f1f1798f-b65c-49ab-917a-0b4630ec75c3&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.29886/-0.20738"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°54 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
+      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Prailles - Papiste fait de la résistance</ins>
    </div>
    <br/>
 </details>
@@ -2033,7 +2014,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-magne-maraichin-contre-bra_1220975?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=356d8eb5-6c1b-4f2b-a0c3-86eb8730f5d9&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#18/46.31418/-0.54166"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°55 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°58 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -2044,7 +2025,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img width="30%" alt="Vérification de la solution pour la cache Maraîchin contre Bras Rouge !" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/deux_sevres/maraichin_contre_bras_rouge/verification_solution_cache.PNG">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°56 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°59 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -2054,7 +2035,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
    <br/>
    <iframe title="Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !" width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-magne-maraichin-contre-bras-r_1220982?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=ca636d06-15f6-4f21-afc6-918e2a779222&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#20/46.31459/-0.54255"></iframe>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°57 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
+      <ins>Légende n°60 - Carte pour identifier la cache géocaching du Tèrra Aventura Magné - Maraîchin contre Bras Rouge !</ins>
    </div>
    <br/>
 </details>
@@ -2073,7 +2054,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°58 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°61 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -2091,7 +2072,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°59 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°62 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
@@ -2109,7 +2090,7 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
       <img alt="Bientôt disponible" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/coming-soon.gif">
    </div>
    <div style="display:flex;align-items:center;justify-content:center;">
-      <ins>Légende n°60 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
+      <ins>Légende n°63 - En attente de nouvelles réalisations de parcours Tèrra Aventura</ins>
    </div>
    <br/>
 </div>
