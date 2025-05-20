@@ -69,7 +69,8 @@ Les réseaux pour joindre les équipes Tèrra aventura :
             Via mail : <a target="_blank" href="mailto:les-sages@terra-aventura.fr" title="Mail de contact des gérants de Tèrra Aventura">les-sages@terra-aventura.fr</a>
         </p>
     </div>
-    <p>Ou tout simplement la bonne vieille lettre, à destination de : <b>site de Limoges, Maison régionale du tourisme, 30 cours Gay Lussac - C.S 50 095, 87 003 LIMOGES CEDEX 1, France</b> </p>
+    <p>Ou tout simplement la bonne vieille lettre, à destination de :<br/></p>
+    <p style="margin-left:20px;"><b>Comité Régional du Tourisme de Nouvelle-Aquitaine<br/>Site de Limoges<br/>Maison régionale du tourisme<br/>30 cours Gay Lussac - C.S 50 095<br/>87 003 LIMOGES CEDEX 1<br/>France</b></p>
 </div>
 
 **N'hésitez pas à les identifier sur posts, photographies ou vidéos, lorsque le contenu est public, les équipes Tèrra Aventura les partagent également !**
@@ -2225,7 +2226,6 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 1. [Présentation](#presentation "redirection vers la partie : Présentation")
    - [Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?](#poizTerraAventura "redirection vers la partie : Nom d'un Poï'z, qu'est-ce que Tèrra Aventura ?")
    - [Règlement Tèrra Aventura](#reglement "redirection vers la partie : Règlement Tèrra Aventura")
-   - [Historique des saisons Tèrra Aventura](#historique "redirection vers la partie : Historique des saisons Tèrra Aventura")
    - [L'heure de la première aventure est arrivée !](#premiereAventure "redirection vers la partie : L'heure de la première aventure est arrivée !")
    - [Et pour poursuivre davantage l'aventure ?](#poursuiteAventure "redirection vers la partie : Présentation")
 2. [Aides caches Tèrra Aventura](#aides "redirection vers la partie : Aides caches Tèrra Aventura")
