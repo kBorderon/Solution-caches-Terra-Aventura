@@ -1168,7 +1168,7 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
 <b>Les détails supplémentaires</b>
 <br/>
 
-En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter l'**Office de Tourisme des Vals de Saintonge**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
 
 <div style="display:flex;justify-content:center;">
@@ -1210,7 +1210,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
         <img width="30%" alt="Vérification de la solution pour la cache Un toit pour Ganelon" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/caches/charente_maritime/un_toit_pour_ganelon/verification_solution_cache.PNG">
     </div>
     <div style="display:flex;align-items:center;justify-content:center;">
-        <ins>Légende n°43 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Tonnay-Boutonne - Un toit pour Ganelon<</ins>
+        <ins>Légende n°43 - Présentation de la solution pour la cache géocaching du Tèrra Aventura Tonnay-Boutonne - Un toit pour Ganelon</ins>
     </div>
     <br/>
 </details>
@@ -1409,7 +1409,7 @@ Fiche technique du parcours « **Surgères, inspire-moi !** ».
 <b>Les détails supplémentaires</b>
 <br/>
 
-En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter l'**Office de Tourisme du Pays d'Aunis**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
 
 <div style="display:flex;justify-content:center;">
@@ -2107,7 +2107,7 @@ Fiche technique du parcours « **Papiste fait de la résistance** ».
 <b>Les détails supplémentaires</b>
 <br/>
 
-En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Niort Marais Poitevin Tourisme**, dont vous trouverez les coordonnées, ci-dessous.
+En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous invitons à contacter **Pays Mellois**, dont vous trouverez les coordonnées, ci-dessous.
 <br/>
 
 <div style="display:flex;justify-content:center;">
@@ -2527,5 +2527,6 @@ Merci d'avance pour votre compréhension et participation à ce projet communaut
 
 >Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
 >- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
+>- mon Linkedin : [**Kévin BORDERON**](https://www.linkedin.com/in/k%C3%A9vin-borderon-60a59212b/ "redirection : Lien vers mon profil Linkedin"){:target="_blank"} ;
 >- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter"){:target="_blank"} ;
 >- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord"){:target="_blank"}.
