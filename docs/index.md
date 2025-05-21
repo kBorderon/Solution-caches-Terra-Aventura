@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/kBorderon/ChappyBot.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues "redirection : Consultation des tickets Github ouverts, associés au projet"){:target="_blank"}
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/kBorderon/ChappyBot.svg)](https://github.com/kBorderon/Solutions-caches-Terra-Aventura/issues?q=is%3Aissue+is%3Aclosed "redirection : Consultation des tickets Github fermés, associés au projet"){:target="_blank"}
 
-Le projet Github associé à cette Github Page est disponible via le lien [Solution cache Tèrra Aventura](https://github.com/kBorderon/Solution-caches-Terra-Aventura "redirection : Page Github Solutions caches Tèrra Aventura"){:target="_blank"}.
+Le projet Github associé à cette Github Page est disponible via le lien [Solution caches Tèrra Aventura](https://github.com/kBorderon/Solution-caches-Terra-Aventura "redirection : Page Github Solutions caches Tèrra Aventura"){:target="_blank"}.
 
 ## Sommaire synthétique
 

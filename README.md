@@ -8,16 +8,36 @@
 
 Bonjour à toi, jeune aventurier, aventurière, en quête de solutions pour ton Tèrra Aventura 🧭!  
 
-Tu es au bon endroit !  
+<div>
+    <div style="display:flex;align-items:center;justify-content:center;">
+        <img alt="Gif aventure" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/adventure.gif">
+    </div>
+    <div style="display:flex;align-items:center;justify-content:center;">
+        <ins>Légende n°1 - Bienvenue à toi pour ton enquête Tèrra Aventura !</ins>
+    </div>
+    <br/>
+</div>
 
-Cependant, nous t'invitons à consulter directement la [Github Page **Solution caches Tèrra Aventura**](https://kborderon.github.io/Solution-caches-Terra-Aventura/). 
+Tu es au bon endroit !
+
+<div>
+    <div style="display:flex;align-items:center;justify-content:center;">
+        <img alt="Gif exploration" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/exploration.gif">
+    </div>
+    <div style="display:flex;align-items:center;justify-content:center;">
+        <ins>Légende n°2 - C'est parti pour l'exploration des parcours Tèrra Aventura !</ins>
+    </div>
+    <br/>
+</div>
+
+Cependant, nous t'invitons à consulter directement la [Github Page **Solution caches Tèrra Aventura**](https://kborderon.github.io/Solution-caches-Terra-Aventura "redirection : Github Page Solutions caches Tèrra Aventura"). 
 En effet, pour des soucis de lisibilité, nous avons mis en place cette Github Page dédiée, merci de ta compréhension 😊.
 
 <a style="display:flex;align-items:center;justify-content:center;" href="https://kborderon.github.io/Solution-caches-Terra-Aventura/" title="redirection : Github Pages Solution caches Tèrra Aventura">
-   <img alt="Présentation de l'affichage de la Github Pages Solution caches Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/github-page-solution-cartes-terra-aventura.PNG">
+    <img alt="Présentation de l'affichage de la Github Pages Solution caches Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/github-page-solution-cartes-terra-aventura.PNG">
 </a>
 <div align="center">
-   <ins>Légende n°1 - Carte interactive des Tèrra Aventura disponibles</ins>
+    <ins>Légende n°3 - Carte interactive des Tèrra Aventura disponibles</ins>
 </div>
 
 ---
@@ -26,5 +46,6 @@ En effet, pour des soucis de lisibilité, nous avons mis en place cette Github P
 
 >Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
 >- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
->- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter") ;
->- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord").
+>- mon Linkedin : [**Kévin BORDERON**](https://www.linkedin.com/in/k%C3%A9vin-borderon-60a59212b/ "redirection : Lien vers mon profil Linkedin"){:target="_blank"} ;
+>- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter"){:target="_blank"} ;
+>- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord"){:target="_blank"}.
