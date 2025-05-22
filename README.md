@@ -9,10 +9,10 @@
 Bonjour à toi, jeune aventurier, aventurière, en quête de solutions pour ton Tèrra Aventura 🧭!  
 
 <div>
-    <div style="display:flex;align-items:center;justify-content:center;">
+    <div  align="center">
         <img alt="Gif aventure" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/adventure.gif">
     </div>
-    <div style="display:flex;align-items:center;justify-content:center;">
+    <div align="center">
         <ins>Légende n°1 - Bienvenue à toi pour ton enquête Tèrra Aventura !</ins>
     </div>
     <br/>
@@ -21,10 +21,10 @@ Bonjour à toi, jeune aventurier, aventurière, en quête de solutions pour ton 
 Tu es au bon endroit !
 
 <div>
-    <div style="display:flex;align-items:center;justify-content:center;">
+    <div align="center">
         <img alt="Gif exploration" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/gifs/exploration.gif">
     </div>
-    <div style="display:flex;align-items:center;justify-content:center;">
+    <div align="center">
         <ins>Légende n°2 - C'est parti pour l'exploration des parcours Tèrra Aventura !</ins>
     </div>
     <br/>

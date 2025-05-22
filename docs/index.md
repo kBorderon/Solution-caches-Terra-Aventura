@@ -90,8 +90,8 @@ L'objectif est simple, il s'agit de vous faire découvrir le patrimoine local, s
 Vous trouverez via cette page les [conditions générales d'utilisation du jeu Tèrra Aventura](https://www.terra-aventura.fr/conditions-generales-dutilisation-du-jeu-terra-aventura "redirection : Page conditions générales d'utilisation du jeu Tèrra Aventura"){:target="_blank"}, ainsi que la pagé dédiée pour les [mentions légales](https://www.terra-aventura.fr/mentions-legales "redirection : Page mentions légales du jeu Tèrra Aventura"){:target="_blank"}.
 
 Concernant la charte, pour être reconnu en tant que véritable aventurier, voici les 10 règles à respecter :
-<a widtth="60%" style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/la-charte" title="redirection : Page la charte de Tèrra Aventura">
-    <img alt="Charte de Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/charte-terra-aventura.PNG">
+<a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/la-charte" title="redirection : Page la charte de Tèrra Aventura">
+    <img width="70%" alt="Charte de Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/charte-terra-aventura.PNG">
 </a>
 <div style="display:flex;align-items:center;justify-content:center;">
     <ins>Légende n°2 - Carte interactive des Tèrra Aventura disponibles</ins>
@@ -150,7 +150,7 @@ Envie d'en apprendre davantage concernant les Poï'z ?, n'hésites pas à consul
 
 <div>
     <a style="display:flex;align-items:center;justify-content:center;" target="_blank" href="https://www.terra-aventura.fr/les-poiz" title="redirection : Page les poï'z du jeu Tèrra Aventura">
-        <img alt="Poï'z, le personnage de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz.PNG" width="50%">
+        <img alt="Poï'z, le personnage de ton Tèrra Aventura" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/poiz.PNG" width="50%">
     </a>
     <div style="display:flex;align-items:center;justify-content:center;">
         <ins>Légende n°3 - Découverte des Poï'z</ins>
@@ -1066,8 +1066,8 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                 <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
-                        <p>Dans mon jardin poussent des simples, si faciles, si faciles, que le sot qui les cueille en devient savant. Combien d’arcades composent le porche roman ?</p>
-                        <p><b>Réponse</b> : <ins>3</ins></p>
+                        <p>Quel est le nom du fabricant de l’horloge installée sur l’Hôtel de Ville ? :Comptez le nombre de lettres qui composent ce nom.</p>
+                        <p><b>Réponse</b> : <ins>8</ins></p>
                 </div>
                 </div>
             </details>
@@ -1078,8 +1078,14 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                 <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
-                        <p>Observez le premier niveau. En partant de la gauche, sur quelle métope est représentée la femme à queue de poisson ? Elle pourrait être une représentation de Mélusine, la célèbre fée poitevine.</p>
-                        <p><b>Réponse</b> : <ins>12</ins></p>
+                        <p>
+                            Deux frises sont sculptées sur la porte Saint-Pierre. Quels motifs géométriques sont utilisés ?<br/>
+                            1 - Des ronds<br/>
+                            2 - Des rectangles<br/>
+                            3 - Des losanges<br/>
+                            Relevez le numéro de la bonne réponse.
+                        </p>
+                        <p><b>Réponse</b> : <ins>3</ins></p>
                     </div>
                 </div>
             </details>
@@ -1090,8 +1096,8 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                 <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
-                        <p>Combien de mascarons représentant des femmes sont sculptés au-dessus des fenêtres du premier étage ?</p>
-                        <p><b>Réponse</b> : <ins>2</ins></p>
+                        <p>Dans cette rue, trouvez un point d’eau. Quel chiffre indice Zéïdon vous donne-t-il ?</p>
+                        <p><b>Réponse</b> : <ins>1</ins></p>
                     </div>
                 </div>
             </details>
@@ -1102,8 +1108,14 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                 <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
-                        <p>Dans mon jardin gonflent des fruits, si tactiles, si tactiles que le pauvre qui les goûte assouvit sa faim. De quelle ville vient l’entreprise qui a construit les halles ? Comptez le nombre de lettres qui composent ce nom.</p>
-                        <p><b>Réponse</b> : <ins>6</ins></p>
+                        <p>
+                            Quels arbres laissent tomber leurs longues branches dans l’eau, aux abords de ce point ?<br/>
+                            1- Des érables<br/>
+                            2- Des saules pleureurs<br/>
+                            3- Des peupliers<br/>
+                            Relevez le numéro de la bonne réponse.
+                        </p>
+                        <p><b>Réponse</b> : <ins>2</ins></p>
                     </div>
                 </div>
             </details>
@@ -1114,8 +1126,8 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                 <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
-                        <p>Combien de personnages avec les bras croisés décorent les lucarnes de la toiture ?</p>
-                        <p><b>Réponse</b> : <ins>4</ins></p>
+                        <p>Combien de personnages sont représentés sur la fresque ?</p>
+                        <p><b>Réponse</b> : <ins>8</ins></p>
                     </div>
                 </div>
             </details>
@@ -1127,10 +1139,10 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
                         <p>
-                            Dans mon jardin chante une source, si docile, si docile, que le soldat qui s'abandonne retrouve la paix. Observez autour de vous. De quoi René-André, Henri, Maurice, Yvon et Henri ont-ils été les victimes ?<br/>
-                            1 - De la guerre<br/>
-                            2 - De la Résistance<br/>
-                            3 - De la barbarie<br/>
+                            Observez les moules. Selon vous, quelle technique est utilisée pour la fabrication de multiplis ?
+                            1- Le marouflé-pitonné
+                            2- Le lamellé-collé
+                            3- Le mille-feuillé-clouté
                             Relevez le numéro de la bonne réponse.
                         </p>
                         <p><b>Réponse</b> : <ins>2</ins></p>
@@ -1144,20 +1156,8 @@ Fiche technique du parcours « **Un toit pour Ganelon** ».
                 <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
                     <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
                     <div style="margin-left:20px;">
-                        <p>En quelle année Charles de Fonsèque a-t-il fait rebâtir les murailles ? Relevez uniquement le chiffre des unités.</p>
-                        <p><b>Réponse</b> : <ins>6</ins></p>
-                    </div>
-                </div>
-            </details>
-        </div>
-        <div>
-            <details>
-                <summary>Énigme « H »</summary>
-                <div style="margin: 20px 0px 20px 0;padding:20px;display:flex;align-items:center;justify-content:center;border:solid grey thin;border-radius:10px;">
-                    <img style="background-color:transparent;" alt="Poï'z Zabeth" src="https://raw.githubusercontent.com/kBorderon/Solution-caches-Terra-Aventura/main/assets/images/poiz/zabeth_badge.png">
-                    <div style="margin-left:20px;">
-                        <p>Dans mon jardin glissent des fleurs, si subtiles, si subtiles, que le passant qui les respire arrête son pas. Combien de fleurs ornent la frise de la porte Renaissance, au-dessus des colonnes ? Travaux en cours : H = 8</p>
-                        <p><b>Réponse</b> : <ins>8</ins></p>
+                        <p>À gauche de la porte, deux initiales sont gravées dans la pierre. Combien de lettres les séparent dans l’alphabet ?</p>
+                        <p><b>Réponse</b> : <ins>3</ins></p>
                     </div>
                 </div>
             </details>
@@ -1197,7 +1197,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
     <summary>Emplacement des parkings conseillés et du départ du Tèrra Aventura</summary>
     <br/>
-    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-surgeres-surgeres-inspire-_1226041?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=a871028f-5553-489b-aa6e-2800fd484808&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#19/46.10543/-0.75142"></iframe>
+    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/parkings-terra-aventura-tonnay-boutonne-un-toit-po_1229055?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=9ba1e7e9-dbb8-4d4a-8c40-4c156c0ce917&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#13/45.9369/-0.7368"></iframe>
     <div style="display:flex;align-items:center;justify-content:center;">
         <ins>Légende n°42 - Carte pour identifier les parkings conseillés et le départ du Tèrra Aventura Tonnay-Boutonne - Un toit pour Ganelon</ins>
     </div>
@@ -1218,7 +1218,7 @@ En cas d'anomalies détectées sur le parcours ou pour toute question, nous vous
 <details>
     <summary>Géolocalisation de la cache</summary>
     <br/>
-    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-surgeres-surgeres-inspire-moi_1226048?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=1d0e99ee-def3-4e16-b47a-f28b429eb85c&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false#19/46.10478/-0.74998"></iframe>
+    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/cache-terra-aventura-tonnay-boutonne-un-toit-pour-_1229060?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=true&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=e5f77198-7528-4eb2-a716-9ab5212c4c71&homeControl=false&locateControl=true&measureControl=false&editinosmControl=false"></iframe>
     <div style="display:flex;align-items:center;justify-content:center;">
         <ins>Légende n°44 - Carte pour identifier la cache géocaching du Tèrra Aventura Tonnay-Boutonne - Un toit pour Ganelon<</ins>
     </div>
