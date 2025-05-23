@@ -49,3 +49,6 @@ Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à
 - mon Linkedin : <a target="_blank" href="https://www.linkedin.com/in/k%C3%A9vin-borderon-60a59212b" title="redirection : Lien vers mon profil Linkedin"><b>Kévin BORDERON</b></a> ;
 - mon compte Twitter : <a target="_blank" href="https://twitter.com/Kevin_Borderon" title="redirection : Lien vers mon profil Twitter"><b>@Kevin_Borderon</b></a> ;
 - mon compte Discord <a target="_blank" href="https://discord.com/users/231461282744762370" title="redirection : Lien vers mon profil Discord"><b>thekill85</b></a>.
+
+- >- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter"){:target="_blank" rel="noopener"} ;
+>- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord"){:target="_blank" rel="noopener"}.
