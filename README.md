@@ -44,8 +44,8 @@ En effet, pour des soucis de lisibilité, nous avons mis en place cette Github P
 
 ## Questions et demandes<a name="questions"></a>
 
->Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
->- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
->- mon Linkedin : [**Kévin BORDERON**](https://www.linkedin.com/in/k%C3%A9vin-borderon-60a59212b/ "redirection : Lien vers mon profil Linkedin"){:target="_blank"} ;
->- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter"){:target="_blank"} ;
->- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord"){:target="_blank"}.
+Si vous avez des questions ou des demandes d'ajout sur le bot, n'hésitez pas à me contacter grâce à :
+- mon mail (Cf. mon [**kevin.borderon85180@gmail.com**](mailto:kevin.borderon85180@gmail.com "redirection : Lien pour me contacter via mon mail")) ;
+- mon Linkedin : [**Kévin BORDERON**](https://www.linkedin.com/in/k%C3%A9vin-borderon-60a59212b/ "redirection : Lien vers mon profil Linkedin"){:target="_blank"} ;
+- mon compte Twitter : [**@Kevin_Borderon**](https://twitter.com/Kevin_Borderon "redirection : Lien vers mon profil Twitter"){:target="_blank"} ;
+- mon compte Discord [**thekill85**](https://discord.com/users/231461282744762370 " redirection : Lien vers mon profil Discord"){:target="_blank"}.
